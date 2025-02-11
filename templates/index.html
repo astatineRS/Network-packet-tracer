@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network Packet Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Network Packet Analyzer</h1>
+        <div class="protocol-buttons">
+            <button onclick="loadPackets('arp')">ARP Packets</button>
+            <button onclick="loadPackets('udp')">UDP Packets</button>
+            <button onclick="loadPackets('tcp')">TCP Packets</button> <!-- Changed from ipv4 to tcp -->
+        </div>
+        <div class="packet-container">
+            <table id="packet-table">
+                <thead>
+                    <tr>
+                        <th>Time</th>
+                        <th>Protocol</th>
+                        <th>Source MAC</th>
+                        <th>Dest MAC</th>
+                        <th>Source IP</th>
+                        <th>Dest IP</th>
+                        <th>Length</th>
+                    </tr>
+                </thead>
+                <tbody id="packet-data">
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

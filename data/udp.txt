@@ -1,0 +1,1000 @@
+03:44:56.163424 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 92: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 245.99.109.86.in-addr.arpa.local. (50)
+03:44:56.164551 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 112: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 245.99.109.86.in-addr.arpa.local. (50)
+03:44:57.187929 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 92: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 245.99.109.86.in-addr.arpa.local. (50)
+03:44:57.187929 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 112: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 245.99.109.86.in-addr.arpa.local. (50)
+03:44:58.724848 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 94: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 254.169.254.169.in-addr.arpa.local. (52)
+03:44:58.725219 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 114: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 254.169.254.169.in-addr.arpa.local. (52)
+03:44:59.646913 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 94: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 254.169.254.169.in-addr.arpa.local. (52)
+03:44:59.647877 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 114: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 254.169.254.169.in-addr.arpa.local. (52)
+03:45:05.252052 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 79: 192.168.1.28.34103 > 192.168.1.1.53: 24301+ A? main.vscode-cdn.net. (37)
+03:45:05.254679 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 79: 192.168.1.28.6126 > 192.168.1.1.53: 39913+ HTTPS? main.vscode-cdn.net. (37)
+03:45:05.286778 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 285: 192.168.1.1.53 > 192.168.1.28.34103: 24301 5/2/0 CNAME vscode-cdn.z01.azurefd.net., CNAME star-azurefd-prod.trafficmanager.net., CNAME shed.dual-low.s-part-0040.t-0009.t-msedge.net., CNAME s-part-0040.t-0009.t-msedge.net., A 13.107.246.68 (243)
+03:45:05.287441 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 293: 192.168.1.1.53 > 192.168.1.28.6126: 39913 4/1/0 CNAME vscode-cdn.z01.azurefd.net., CNAME star-azurefd-prod.trafficmanager.net., CNAME shed.dual-low.s-part-0040.t-0009.t-msedge.net., CNAME s-part-0040.t-0009.t-msedge.net. (251)
+03:45:07.940106 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 92: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 33.67.251.160.in-addr.arpa.local. (50)
+03:45:07.940106 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 112: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 33.67.251.160.in-addr.arpa.local. (50)
+03:45:08.894358 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 92: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 33.67.251.160.in-addr.arpa.local. (50)
+03:45:08.894358 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 112: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 33.67.251.160.in-addr.arpa.local. (50)
+03:45:16.338882 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 94: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 226.197.205.209.in-addr.arpa.local. (52)
+03:45:16.338883 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 114: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 226.197.205.209.in-addr.arpa.local. (52)
+03:45:17.362547 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 94: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 226.197.205.209.in-addr.arpa.local. (52)
+03:45:17.362547 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 114: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 226.197.205.209.in-addr.arpa.local. (52)
+03:45:22.174696 8a:75:31:15:cb:3e > ff:ff:ff:ff:ff:ff, ethertype IPv4 (0x0800), length 1506: 192.168.1.10.42285 > 255.255.255.255.1716: UDP, length 1755
+03:45:22.174993 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 192.168.1.10.5353 > 224.0.0.251.5353: 1 PTR (QU)? _kdeconnect._udp.local. (40)
+03:45:22.175346 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 102: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 1 PTR (QU)? _kdeconnect._udp.local. (40)
+03:45:22.275480 8a:75:31:15:cb:3e > ff:ff:ff:ff:ff:ff, ethertype IPv4 (0x0800), length 325: 192.168.1.10 > 255.255.255.255: ip-proto-17
+03:45:23.200386 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 192.168.1.10.5353 > 224.0.0.251.5353: 2 PTR (QM)? _kdeconnect._udp.local. (40)
+03:45:23.200386 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 102: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 2 PTR (QM)? _kdeconnect._udp.local. (40)
+03:45:23.200386 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 385: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 0*- [0q] 1/0/6 PTR 44db6837_b615_4d13_b1ad_e79f1e95e4e3._kdeconnect._udp.local. (323)
+03:45:23.301569 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 365: 192.168.1.10.5353 > 224.0.0.251.5353: 0*- [0q] 1/0/6 PTR 44db6837_b615_4d13_b1ad_e79f1e95e4e3._kdeconnect._udp.local. (323)
+03:45:24.193628 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 192.168.1.10.5353 > 224.0.0.251.5353: 3 PTR (QM)? _kdeconnect._udp.local. (40)
+03:45:24.194214 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 102: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 3 PTR (QM)? _kdeconnect._udp.local. (40)
+03:45:24.530770 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 385: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 0*- [0q] 1/0/6 PTR 44db6837_b615_4d13_b1ad_e79f1e95e4e3._kdeconnect._udp.local. (323)
+03:45:24.540101 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 92: 192.168.1.28.30949 > 192.168.1.1.53: 49463+ A? mobile.events.data.microsoft.com. (50)
+03:45:24.540139 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 92: 192.168.1.28.21679 > 192.168.1.1.53: 61246+ HTTPS? mobile.events.data.microsoft.com. (50)
+03:45:24.571043 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 387: 192.168.1.1.53 > 192.168.1.28.30949: 49463 3/4/2 CNAME mobile.events.data.trafficmanager.net., CNAME onedscolprdwus12.westus.cloudapp.azure.com., A 20.189.173.13 (345)
+03:45:24.572702 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 256: 192.168.1.1.53 > 192.168.1.28.21679: 61246 2/1/0 CNAME mobile.events.data.trafficmanager.net., CNAME onedscolprdwus12.westus.cloudapp.azure.com. (214)
+03:45:25.143944 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 167: 192.168.1.10.42508 > 239.255.255.250.1900: UDP, length 125
+03:45:26.066239 26:b0:14:8a:0f:cf > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 91: 192.168.1.6.5353 > 224.0.0.251.5353: 0 [2q] PTR (QU)? _airplay._tcp.local. PTR (QU)? _raop._tcp.local. (49)
+03:45:26.066767 26:b0:14:8a:0f:cf > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 111: fe80::482:f5a0:bf3:b66c.5353 > ff02::fb.5353: 0 [2q] PTR (QU)? _airplay._tcp.local. PTR (QU)? _raop._tcp.local. (49)
+03:45:27.089875 26:b0:14:8a:0f:cf > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 91: 192.168.1.6.5353 > 224.0.0.251.5353: 0 [2q] PTR (QM)? _airplay._tcp.local. PTR (QM)? _raop._tcp.local. (49)
+03:45:27.089875 26:b0:14:8a:0f:cf > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 111: fe80::482:f5a0:bf3:b66c.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _airplay._tcp.local. PTR (QM)? _raop._tcp.local. (49)
+03:45:27.357847 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 167: 192.168.1.10.46614 > 239.255.255.250.1900: UDP, length 125
+03:45:27.674693 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 192.168.1.10.5353 > 224.0.0.251.5353: 1 PTR (QU)? _googlecast._tcp.local. (40)
+03:45:27.674693 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 102: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 1 PTR (QU)? _googlecast._tcp.local. (40)
+03:45:27.674693 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 192.168.1.10.5353 > 224.0.0.251.5353: 1 PTR (QU)? _googlecast._tcp.local. (40)
+03:45:27.674694 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 102: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 1 PTR (QU)? _googlecast._tcp.local. (40)
+03:45:27.674694 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 103: 192.168.1.10.5353 > 224.0.0.251.5353: 1 [2q] PTR (QU)? _googlecast._tcp.local. PTR (QU)? _233637DE._sub._googlecast._tcp.local. (61)
+03:45:27.674694 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 123: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 1 [2q] PTR (QU)? _googlecast._tcp.local. PTR (QU)? _233637DE._sub._googlecast._tcp.local. (61)
+03:45:28.488597 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 103: 192.168.1.10.5353 > 224.0.0.251.5353: 2 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:45:28.489696 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 123: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 2 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:45:29.515525 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 103: 192.168.1.10.5353 > 224.0.0.251.5353: 3 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:45:29.515525 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 123: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 3 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:45:30.132141 26:b0:14:8a:0f:cf > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 91: 192.168.1.6.5353 > 224.0.0.251.5353: 0 [2q] PTR (QM)? _airplay._tcp.local. PTR (QM)? _raop._tcp.local. (49)
+03:45:30.132142 26:b0:14:8a:0f:cf > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 111: fe80::482:f5a0:bf3:b66c.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _airplay._tcp.local. PTR (QM)? _raop._tcp.local. (49)
+03:45:31.272332 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 1250
+03:45:31.272348 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 1250
+03:45:31.272486 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 119: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 77
+03:45:31.381571 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 1250
+03:45:31.394037 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 40
+03:45:31.394037 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 1250
+03:45:31.569795 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 1250
+03:45:31.569795 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 1250
+03:45:31.569795 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 345: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 303
+03:45:31.569795 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 986: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 944
+03:45:31.569795 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 25
+03:45:31.569795 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 1250
+03:45:31.570244 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 120: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 78
+03:45:31.570285 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 31
+03:45:31.570437 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1288: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 1246
+03:45:31.570444 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 1250
+03:45:31.570470 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 643: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 601
+03:45:31.570474 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 355: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 313
+03:45:31.607893 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 163: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 121
+03:45:31.607893 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 25
+03:45:31.607893 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 25
+03:45:31.607893 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 25
+03:45:31.608122 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 33
+03:45:31.774367 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 72: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 30
+03:45:31.774959 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 291: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 249
+03:45:31.774959 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 63: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 21
+03:45:31.775090 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 79: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 37
+03:45:31.801096 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 76: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 34
+03:45:31.979496 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 24
+03:45:32.790511 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.55118 > 142.250.66.4.443: UDP, length 1250
+03:45:32.790537 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.55118 > 142.250.66.4.443: UDP, length 1250
+03:45:32.790653 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 121: 192.168.1.28.55118 > 142.250.66.4.443: UDP, length 79
+03:45:32.817612 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 142.250.66.4.443 > 192.168.1.28.55118: UDP, length 40
+03:45:32.818981 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.66.4.443 > 192.168.1.28.55118: UDP, length 1250
+03:45:32.845440 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.55118 > 142.250.66.4.443: UDP, length 1250
+03:45:32.872628 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.66.4.443 > 192.168.1.28.55118: UDP, length 1250
+03:45:32.879200 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.66.4.443 > 192.168.1.28.55118: UDP, length 1250
+03:45:32.879200 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 462: 142.250.66.4.443 > 192.168.1.28.55118: UDP, length 420
+03:45:32.879200 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 872: 142.250.66.4.443 > 192.168.1.28.55118: UDP, length 830
+03:45:32.879200 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 178: 142.250.66.4.443 > 192.168.1.28.55118: UDP, length 136
+03:45:32.879200 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.66.4.443 > 192.168.1.28.55118: UDP, length 24
+03:45:32.879627 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 120: 192.168.1.28.55118 > 142.250.66.4.443: UDP, length 78
+03:45:32.879667 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.55118 > 142.250.66.4.443: UDP, length 31
+03:45:32.904985 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.55118 > 142.250.66.4.443: UDP, length 32
+03:45:32.906495 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 162: 142.250.66.4.443 > 192.168.1.28.55118: UDP, length 120
+03:45:32.931949 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.55118 > 142.250.66.4.443: UDP, length 32
+03:45:37.330792 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 167: 192.168.1.10.46236 > 239.255.255.250.1900: UDP, length 125
+03:45:38.245237 d4:1b:81:ac:5b:29 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 215: 192.168.1.28.38103 > 239.255.255.250.1900: UDP, length 173
+03:45:38.248979 d4:1b:81:ac:5b:29 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 215: 192.168.1.28.38103 > 239.255.255.250.1900: UDP, length 173
+03:45:39.172571 26:b0:14:8a:0f:cf > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 91: 192.168.1.6.5353 > 224.0.0.251.5353: 0 [2q] PTR (QM)? _airplay._tcp.local. PTR (QM)? _raop._tcp.local. (49)
+03:45:39.173443 26:b0:14:8a:0f:cf > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 111: fe80::482:f5a0:bf3:b66c.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _airplay._tcp.local. PTR (QM)? _raop._tcp.local. (49)
+03:45:39.245970 d4:1b:81:ac:5b:29 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 215: 192.168.1.28.38103 > 239.255.255.250.1900: UDP, length 173
+03:45:39.249171 d4:1b:81:ac:5b:29 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 215: 192.168.1.28.38103 > 239.255.255.250.1900: UDP, length 173
+03:45:40.246904 d4:1b:81:ac:5b:29 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 215: 192.168.1.28.38103 > 239.255.255.250.1900: UDP, length 173
+03:45:40.256339 d4:1b:81:ac:5b:29 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 215: 192.168.1.28.38103 > 239.255.255.250.1900: UDP, length 173
+03:45:41.247130 d4:1b:81:ac:5b:29 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 215: 192.168.1.28.38103 > 239.255.255.250.1900: UDP, length 173
+03:45:41.250709 d4:1b:81:ac:5b:29 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 215: 192.168.1.28.38103 > 239.255.255.250.1900: UDP, length 173
+03:45:44.192742 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 192.168.1.10.5353 > 224.0.0.251.5353: 4 PTR (QM)? _kdeconnect._udp.local. (40)
+03:45:44.192743 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 102: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 4 PTR (QM)? _kdeconnect._udp.local. (40)
+03:45:44.192743 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 365: 192.168.1.10.5353 > 224.0.0.251.5353: 0*- [0q] 1/0/6 PTR 44db6837_b615_4d13_b1ad_e79f1e95e4e3._kdeconnect._udp.local. (323)
+03:45:44.503947 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 385: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 0*- [0q] 1/0/6 PTR 44db6837_b615_4d13_b1ad_e79f1e95e4e3._kdeconnect._udp.local. (323)
+03:45:45.261522 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1286: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 1244
+03:45:45.261561 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 1250
+03:45:45.261566 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 1250
+03:45:45.261571 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 1250
+03:45:45.261575 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 84: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 42
+03:45:45.292737 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 69: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 27
+03:45:45.292737 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 65: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 23
+03:45:45.317369 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 24
+03:45:45.318184 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 32
+03:45:45.385447 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1288: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 1246
+03:45:45.385447 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 598: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 556
+03:45:45.385447 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 155: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 113
+03:45:45.385722 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 77: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 35
+03:45:45.411121 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.50909 > 142.250.183.110.443: UDP, length 32
+03:45:45.441432 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.110.443 > 192.168.1.28.50909: UDP, length 24
+03:45:49.311136 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 90: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:49.311136 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 110: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:49.311136 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 90: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:49.311136 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 110: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:49.311136 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 90: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:49.311136 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 110: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:49.311136 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 90: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:49.311136 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 110: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:49.311177 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 90: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:49.311177 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 110: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:49.311177 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 90: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:49.311177 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 110: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:49.311177 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 90: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:49.311177 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 110: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:49.311177 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 90: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:49.311177 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 110: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:49.517526 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 103: 192.168.1.10.5353 > 224.0.0.251.5353: 4 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:45:49.518274 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 123: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 4 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:45:50.233848 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 90: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:50.233848 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 110: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:50.233848 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 90: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:50.233848 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 110: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:50.233848 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 90: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:50.233848 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 110: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:50.233848 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 90: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:50.233848 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 110: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:50.233888 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 90: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:50.233888 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 110: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:50.233888 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 90: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:50.233888 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 110: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:50.233888 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 90: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:50.233888 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 110: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:50.233888 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 90: 192.168.1.8.5353 > 224.0.0.251.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:45:50.233888 42:51:c8:d6:c5:32 > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 110: fe80::8084:75c5:1a8d:617.5353 > ff02::fb.5353: 0 PTR (QM)? 1.1.168.192.in-addr.arpa.local. (48)
+03:46:06.127982 26:b0:14:8a:0f:cf > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 91: 192.168.1.6.5353 > 224.0.0.251.5353: 0 [2q] PTR (QM)? _airplay._tcp.local. PTR (QM)? _raop._tcp.local. (49)
+03:46:06.128811 26:b0:14:8a:0f:cf > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 111: fe80::482:f5a0:bf3:b66c.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _airplay._tcp.local. PTR (QM)? _raop._tcp.local. (49)
+03:46:09.485598 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 103: 192.168.1.10.5353 > 224.0.0.251.5353: 5 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:46:09.486041 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 123: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 5 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:46:26.974680 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 92: 192.168.1.28.7562 > 192.168.1.1.53: 9418+ A? mobile.events.data.microsoft.com. (50)
+03:46:26.974719 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 92: 192.168.1.28.12413 > 192.168.1.1.53: 54209+ HTTPS? mobile.events.data.microsoft.com. (50)
+03:46:27.007173 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 479: 192.168.1.1.53 > 192.168.1.28.7562: 9418 3/4/6 CNAME mobile.events.data.trafficmanager.net., CNAME onedscolprdeus11.eastus.cloudapp.azure.com., A 20.42.65.89 (437)
+03:46:27.007846 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 257: 192.168.1.1.53 > 192.168.1.28.12413: 54209 2/1/0 CNAME mobile.events.data.trafficmanager.net., CNAME onedscolprdeus11.eastus.cloudapp.azure.com. (215)
+03:46:29.452230 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 103: 192.168.1.10.5353 > 224.0.0.251.5353: 6 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:46:29.453183 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 123: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 6 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:46:31.253620 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.23015 > 192.168.1.1.53: 13268+ A? sso.godaddy.com. (33)
+03:46:31.253690 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.17145 > 192.168.1.1.53: 12466+ HTTPS? sso.godaddy.com. (33)
+03:46:31.254920 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.51508 > 192.168.1.1.53: 29896+ A? www.figma.com. (31)
+03:46:31.254979 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.34644 > 192.168.1.1.53: 46274+ HTTPS? www.figma.com. (31)
+03:46:31.264865 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 1250
+03:46:31.264890 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 1250
+03:46:31.265029 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 123: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 81
+03:46:31.286502 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 312: 192.168.1.1.53 > 192.168.1.28.23015: 13268 3/8/0 CNAME sso.godaddy.com-v1.edgekey.net., CNAME e6225.x.akamaiedge.net., A 23.9.210.112 (270)
+03:46:31.286668 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 210: 192.168.1.1.53 > 192.168.1.28.17145: 12466 2/1/0 CNAME sso.godaddy.com-v1.edgekey.net., CNAME e6225.x.akamaiedge.net. (168)
+03:46:31.290609 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 157: 192.168.1.1.53 > 192.168.1.28.34644: 46274 0/1/0 (115)
+03:46:31.290768 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 40
+03:46:31.292472 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 1250
+03:46:31.295843 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 434: 192.168.1.1.53 > 192.168.1.28.51508: 29896 4/4/7 A 18.66.78.114, A 18.66.78.23, A 18.66.78.123, A 18.66.78.15 (392)
+03:46:31.296541 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.51403 > 18.66.78.114.443: UDP, length 1250
+03:46:31.296562 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.51403 > 18.66.78.114.443: UDP, length 1250
+03:46:31.304537 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1242: 18.66.78.114.443 > 192.168.1.28.51403: UDP, length 1200
+03:46:31.304537 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1242: 18.66.78.114.443 > 192.168.1.28.51403: UDP, length 1200
+03:46:31.304537 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1242: 18.66.78.114.443 > 192.168.1.28.51403: UDP, length 1200
+03:46:31.304865 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 93: 192.168.1.28.51403 > 18.66.78.114.443: UDP, length 51
+03:46:31.305861 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1242: 18.66.78.114.443 > 192.168.1.28.51403: UDP, length 1200
+03:46:31.305925 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 93: 192.168.1.28.51403 > 18.66.78.114.443: UDP, length 51
+03:46:31.306286 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 996: 18.66.78.114.443 > 192.168.1.28.51403: UDP, length 954
+03:46:31.306539 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 216: 192.168.1.28.51403 > 18.66.78.114.443: UDP, length 174
+03:46:31.306651 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.51403 > 18.66.78.114.443: UDP, length 1250
+03:46:31.306674 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.51403 > 18.66.78.114.443: UDP, length 1250
+03:46:31.306679 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 446: 192.168.1.28.51403 > 18.66.78.114.443: UDP, length 404
+03:46:31.312245 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1494: 18.66.78.114.443 > 192.168.1.28.51403: UDP, length 1452
+03:46:31.312246 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 106: 18.66.78.114.443 > 192.168.1.28.51403: UDP, length 64
+03:46:31.312246 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 85: 18.66.78.114.443 > 192.168.1.28.51403: UDP, length 43
+03:46:31.312477 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 85: 192.168.1.28.51403 > 18.66.78.114.443: UDP, length 43
+03:46:31.317824 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 1250
+03:46:31.336831 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 85: 18.66.78.114.443 > 192.168.1.28.51403: UDP, length 43
+03:46:31.338172 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 86: 192.168.1.28.51403 > 18.66.78.114.443: UDP, length 44
+03:46:31.344036 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 1250
+03:46:31.357748 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 1250
+03:46:31.357748 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 349: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 307
+03:46:31.357748 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 985: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 943
+03:46:31.357748 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 24
+03:46:31.357748 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 24
+03:46:31.358185 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 120: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 78
+03:46:31.358231 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 31
+03:46:31.358381 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1288: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 1246
+03:46:31.358389 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 1250
+03:46:31.358407 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 644: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 602
+03:46:31.358412 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 355: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 313
+03:46:31.388740 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 162: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 120
+03:46:31.388740 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 25
+03:46:31.388740 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 25
+03:46:31.388740 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 25
+03:46:31.411623 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 72: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 30
+03:46:31.411859 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 31
+03:46:31.460797 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 291: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 249
+03:46:31.461764 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 63: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 21
+03:46:31.461842 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 77: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 35
+03:46:31.513281 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 24
+03:46:31.537784 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 83: 192.168.1.28.51403 > 18.66.78.114.443: UDP, length 41
+03:46:31.567511 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 85: 18.66.78.114.443 > 192.168.1.28.51403: UDP, length 43
+03:46:31.572056 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 566: 18.66.78.114.443 > 192.168.1.28.51403: UDP, length 524
+03:46:31.598362 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 86: 192.168.1.28.51403 > 18.66.78.114.443: UDP, length 44
+03:46:31.603659 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 85: 18.66.78.114.443 > 192.168.1.28.51403: UDP, length 43
+03:46:32.105107 d4:1b:81:ac:5b:29 > 33:33:00:01:00:02, ethertype IPv6 (0x86dd), length 110: fe80::3634:200d:8451:113b.546 > ff02::1:2.547: dhcp6 inf-req
+03:46:37.281796 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 167: 192.168.1.10.44618 > 239.255.255.250.1900: UDP, length 125
+03:46:40.001662 26:b0:14:8a:0f:cf > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 91: 192.168.1.6.5353 > 224.0.0.251.5353: 0 [2q] PTR (QU)? _raop._tcp.local. PTR (QU)? _airplay._tcp.local. (49)
+03:46:40.001662 26:b0:14:8a:0f:cf > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 111: fe80::482:f5a0:bf3:b66c.5353 > ff02::fb.5353: 0 [2q] PTR (QU)? _raop._tcp.local. PTR (QU)? _airplay._tcp.local. (49)
+03:46:40.950414 26:b0:14:8a:0f:cf > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 91: 192.168.1.6.5353 > 224.0.0.251.5353: 0 [2q] PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. (49)
+03:46:40.950414 26:b0:14:8a:0f:cf > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 111: fe80::482:f5a0:bf3:b66c.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. (49)
+03:46:43.993519 26:b0:14:8a:0f:cf > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 91: 192.168.1.6.5353 > 224.0.0.251.5353: 0 [2q] PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. (49)
+03:46:43.993807 26:b0:14:8a:0f:cf > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 111: fe80::482:f5a0:bf3:b66c.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. (49)
+03:46:46.253765 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1286: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 1244
+03:46:46.253799 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 1250
+03:46:46.253804 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 1250
+03:46:46.253808 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 1250
+03:46:46.253813 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 84: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 42
+03:46:46.281755 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 69: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 27
+03:46:46.282336 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 65: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 23
+03:46:46.307569 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 32
+03:46:46.308248 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 24
+03:46:46.367767 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1288: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 1246
+03:46:46.367767 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 605: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 563
+03:46:46.367767 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 217: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 175
+03:46:46.367964 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 77: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 35
+03:46:46.393401 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.60576 > 142.250.183.110.443: UDP, length 32
+03:46:46.420057 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 65: 142.250.183.110.443 > 192.168.1.28.60576: UDP, length 23
+03:46:49.500301 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 103: 192.168.1.10.5353 > 224.0.0.251.5353: 7 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:46:49.501784 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 123: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 7 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:46:53.006621 26:b0:14:8a:0f:cf > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 91: 192.168.1.6.5353 > 224.0.0.251.5353: 0 [2q] PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. (49)
+03:46:53.007003 26:b0:14:8a:0f:cf > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 111: fe80::482:f5a0:bf3:b66c.5353 > ff02::fb.5353: 0 [2q] PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. (49)
+03:47:09.493764 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 103: 192.168.1.10.5353 > 224.0.0.251.5353: 8 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:47:09.493818 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 123: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 8 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:47:20.551277 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 192.168.1.10.5353 > 224.0.0.251.5353: 5 PTR (QM)? _kdeconnect._udp.local. (40)
+03:47:20.552187 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 102: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 5 PTR (QM)? _kdeconnect._udp.local. (40)
+03:47:20.587917 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 385: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 0*- [0q] 1/0/6 PTR 44db6837_b615_4d13_b1ad_e79f1e95e4e3._kdeconnect._udp.local. (323)
+03:47:20.607551 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 365: 192.168.1.10.5353 > 224.0.0.251.5353: 0*- [0q] 1/0/6 PTR 44db6837_b615_4d13_b1ad_e79f1e95e4e3._kdeconnect._udp.local. (323)
+03:47:29.563258 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 103: 192.168.1.10.5353 > 224.0.0.251.5353: 9 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:47:29.563258 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 123: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 9 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:47:31.271335 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.26896 > 192.168.1.1.53: 34878+ A? www.youtube.com. (33)
+03:47:31.271370 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.62673 > 192.168.1.1.53: 65383+ HTTPS? www.youtube.com. (33)
+03:47:31.307636 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 481: 192.168.1.1.53 > 192.168.1.28.26896: 34878 17/4/2 CNAME youtube-ui.l.google.com., A 142.250.183.110, A 142.250.183.46, A 142.250.183.78, A 142.250.183.174, A 142.250.67.142, A 142.250.192.46, A 142.250.67.206, A 142.250.76.174, A 216.58.203.14, A 142.250.66.14, A 172.217.174.238, A 142.250.183.206, A 142.250.192.14, A 142.250.199.142, A 142.250.199.174, A 142.251.42.110 (439)
+03:47:31.308143 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 240: 192.168.1.1.53 > 192.168.1.28.62673: 65383 2/4/2 CNAME youtube-ui.l.google.com., HTTPS (198)
+03:47:31.308797 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 1250
+03:47:31.308816 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 1250
+03:47:31.308948 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 123: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 81
+03:47:31.337583 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 40
+03:47:31.338430 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 1250
+03:47:31.367572 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 1250
+03:47:31.395892 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 1250
+03:47:31.402810 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 1250
+03:47:31.402810 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 343: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 301
+03:47:31.402810 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 986: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 944
+03:47:31.402810 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 25
+03:47:31.403283 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 120: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 78
+03:47:31.403328 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 31
+03:47:31.403469 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1288: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 1246
+03:47:31.403476 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 1250
+03:47:31.403493 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 643: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 601
+03:47:31.403498 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 355: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 313
+03:47:31.443460 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 162: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 120
+03:47:31.444668 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 25
+03:47:31.444668 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 25
+03:47:31.444668 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 25
+03:47:31.469030 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 32
+03:47:31.470716 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 72: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 30
+03:47:31.496479 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 32
+03:47:31.520410 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 291: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 249
+03:47:31.521625 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 63: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 21
+03:47:31.521758 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 77: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 35
+03:47:31.585496 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 24
+03:47:33.535162 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 92: 192.168.1.28.12632 > 192.168.1.1.53: 43388+ A? mobile.events.data.microsoft.com. (50)
+03:47:33.537778 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 92: 192.168.1.28.42043 > 192.168.1.1.53: 45970+ HTTPS? mobile.events.data.microsoft.com. (50)
+03:47:33.570835 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 387: 192.168.1.1.53 > 192.168.1.28.12632: 43388 3/4/2 CNAME mobile.events.data.trafficmanager.net., CNAME onedscolprdwus18.westus.cloudapp.azure.com., A 20.189.173.28 (345)
+03:47:33.571517 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 256: 192.168.1.1.53 > 192.168.1.28.42043: 45970 2/1/0 CNAME mobile.events.data.trafficmanager.net., CNAME onedscolprdwus18.westus.cloudapp.azure.com. (214)
+03:47:37.345623 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 167: 192.168.1.10.38215 > 239.255.255.250.1900: UDP, length 125
+03:47:38.246469 d4:1b:81:ac:5b:29 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 215: 192.168.1.28.47853 > 239.255.255.250.1900: UDP, length 173
+03:47:38.252584 d4:1b:81:ac:5b:29 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 215: 192.168.1.28.47853 > 239.255.255.250.1900: UDP, length 173
+03:47:39.249954 d4:1b:81:ac:5b:29 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 215: 192.168.1.28.47853 > 239.255.255.250.1900: UDP, length 173
+03:47:39.252946 d4:1b:81:ac:5b:29 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 215: 192.168.1.28.47853 > 239.255.255.250.1900: UDP, length 173
+03:47:40.251144 d4:1b:81:ac:5b:29 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 215: 192.168.1.28.47853 > 239.255.255.250.1900: UDP, length 173
+03:47:40.257732 d4:1b:81:ac:5b:29 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 215: 192.168.1.28.47853 > 239.255.255.250.1900: UDP, length 173
+03:47:41.251394 d4:1b:81:ac:5b:29 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 215: 192.168.1.28.47853 > 239.255.255.250.1900: UDP, length 173
+03:47:41.258686 d4:1b:81:ac:5b:29 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 215: 192.168.1.28.47853 > 239.255.255.250.1900: UDP, length 173
+03:47:47.253770 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1286: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 1244
+03:47:47.256359 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 1250
+03:47:47.256381 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 1250
+03:47:47.256386 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 1250
+03:47:47.256391 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 85: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 43
+03:47:47.307188 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 69: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 27
+03:47:47.307590 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 65: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 23
+03:47:47.332715 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 32
+03:47:47.333239 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 24
+03:47:47.401174 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1288: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 1246
+03:47:47.401174 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 601: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 559
+03:47:47.401174 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 165: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 123
+03:47:47.401477 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 77: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 35
+03:47:47.402941 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 80: 192.168.1.28.61962 > 192.168.1.1.53: 40162+ A? beacons.gcp.gvt2.com. (38)
+03:47:47.402994 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 80: 192.168.1.28.48642 > 192.168.1.1.53: 1871+ HTTPS? beacons.gcp.gvt2.com. (38)
+03:47:47.427480 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.39940 > 142.250.183.110.443: UDP, length 32
+03:47:47.436612 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 249: 192.168.1.1.53 > 192.168.1.28.61962: 40162 2/4/2 CNAME beacons-handoff.gcp.gvt2.com., A 142.251.42.35 (207)
+03:47:47.436612 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 167: 192.168.1.1.53 > 192.168.1.28.48642: 1871 1/1/0 CNAME beacons-handoff.gcp.gvt2.com. (125)
+03:47:47.437270 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.53710 > 142.251.42.35.443: UDP, length 1250
+03:47:47.437289 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.53710 > 142.251.42.35.443: UDP, length 1250
+03:47:47.437416 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 123: 192.168.1.28.53710 > 142.251.42.35.443: UDP, length 81
+03:47:47.454882 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.110.443 > 192.168.1.28.39940: UDP, length 24
+03:47:47.486273 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 142.251.42.35.443 > 192.168.1.28.53710: UDP, length 40
+03:47:47.486273 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.251.42.35.443 > 192.168.1.28.53710: UDP, length 1250
+03:47:47.536730 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.53710 > 142.251.42.35.443: UDP, length 1250
+03:47:47.547112 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.251.42.35.443 > 192.168.1.28.53710: UDP, length 1250
+03:47:47.547112 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 338: 142.251.42.35.443 > 192.168.1.28.53710: UDP, length 296
+03:47:47.547112 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 996: 142.251.42.35.443 > 192.168.1.28.53710: UDP, length 954
+03:47:47.547112 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.251.42.35.443 > 192.168.1.28.53710: UDP, length 25
+03:47:47.547470 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 120: 192.168.1.28.53710 > 142.251.42.35.443: UDP, length 78
+03:47:47.547511 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.53710 > 142.251.42.35.443: UDP, length 31
+03:47:47.547602 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 578: 192.168.1.28.53710 > 142.251.42.35.443: UDP, length 536
+03:47:47.564130 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.251.42.35.443 > 192.168.1.28.53710: UDP, length 1250
+03:47:47.572513 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 71: 142.251.42.35.443 > 192.168.1.28.53710: UDP, length 29
+03:47:47.572677 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 76: 192.168.1.28.53710 > 142.251.42.35.443: UDP, length 34
+03:47:47.574875 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 162: 142.251.42.35.443 > 192.168.1.28.53710: UDP, length 120
+03:47:47.574982 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 76: 192.168.1.28.53710 > 142.251.42.35.443: UDP, length 34
+03:47:47.635323 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 606: 142.251.42.35.443 > 192.168.1.28.53710: UDP, length 564
+03:47:47.635323 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 63: 142.251.42.35.443 > 192.168.1.28.53710: UDP, length 21
+03:47:47.635522 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 79: 192.168.1.28.53710 > 142.251.42.35.443: UDP, length 37
+03:47:47.635555 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.53710 > 142.251.42.35.443: UDP, length 33
+03:47:47.684938 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.251.42.35.443 > 192.168.1.28.53710: UDP, length 24
+03:47:49.531587 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 103: 192.168.1.10.5353 > 224.0.0.251.5353: 10 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:47:49.532413 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 123: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 10 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:47:58.504239 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 90: 192.168.1.28.51141 > 172.232.97.196.123: NTPv4, Client, length 48
+03:47:58.559612 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 90: 172.232.97.196.123 > 192.168.1.28.51141: NTPv4, Server, length 48
+03:48:09.602748 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 103: 192.168.1.10.5353 > 224.0.0.251.5353: 11 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:48:09.602748 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 123: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 11 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:48:19.312896 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.49004 > 192.168.1.1.53: 48196+ A? ssl.gstatic.com. (33)
+03:48:19.312940 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.30859 > 192.168.1.1.53: 29875+ HTTPS? ssl.gstatic.com. (33)
+03:48:19.345906 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 214: 192.168.1.1.53 > 192.168.1.28.49004: 48196 1/4/2 A 142.250.70.35 (172)
+03:48:19.347616 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 132: 192.168.1.1.53 > 192.168.1.28.30859: 29875 0/1/0 (90)
+03:48:19.348237 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.36440 > 142.250.70.35.443: UDP, length 1250
+03:48:19.348266 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.36440 > 142.250.70.35.443: UDP, length 1250
+03:48:19.348415 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 123: 192.168.1.28.36440 > 142.250.70.35.443: UDP, length 81
+03:48:19.348534 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 583: 192.168.1.28.36440 > 142.250.70.35.443: UDP, length 541
+03:48:19.387488 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 142.250.70.35.443 > 192.168.1.28.36440: UDP, length 40
+03:48:19.387488 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.70.35.443 > 192.168.1.28.36440: UDP, length 1250
+03:48:19.427261 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.36440 > 142.250.70.35.443: UDP, length 1250
+03:48:19.449472 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.70.35.443 > 192.168.1.28.36440: UDP, length 1250
+03:48:19.449473 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 350: 142.250.70.35.443 > 192.168.1.28.36440: UDP, length 308
+03:48:19.449473 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 984: 142.250.70.35.443 > 192.168.1.28.36440: UDP, length 942
+03:48:19.449473 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.70.35.443 > 192.168.1.28.36440: UDP, length 25
+03:48:19.449473 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.70.35.443 > 192.168.1.28.36440: UDP, length 24
+03:48:19.449847 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 120: 192.168.1.28.36440 > 142.250.70.35.443: UDP, length 78
+03:48:19.449885 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.36440 > 142.250.70.35.443: UDP, length 31
+03:48:19.450151 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 64: 142.250.70.35.443 > 192.168.1.28.36440: UDP, length 22
+03:48:19.450189 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.36440 > 142.250.70.35.443: UDP, length 31
+03:48:19.454112 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.70.35.443 > 192.168.1.28.36440: UDP, length 1250
+03:48:19.476010 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 162: 142.250.70.35.443 > 192.168.1.28.36440: UDP, length 120
+03:48:19.476152 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.36440 > 142.250.70.35.443: UDP, length 33
+03:48:19.511615 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 570: 142.250.70.35.443 > 192.168.1.28.36440: UDP, length 528
+03:48:19.511615 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 64: 142.250.70.35.443 > 192.168.1.28.36440: UDP, length 22
+03:48:19.511821 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 79: 192.168.1.28.36440 > 142.250.70.35.443: UDP, length 37
+03:48:19.511851 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.36440 > 142.250.70.35.443: UDP, length 33
+03:48:19.537966 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.70.35.443 > 192.168.1.28.36440: UDP, length 25
+03:48:24.183415 d4:1b:81:ac:5b:29 > 33:33:00:01:00:02, ethertype IPv6 (0x86dd), length 110: fe80::3634:200d:8451:113b.546 > ff02::1:2.547: dhcp6 inf-req
+03:48:29.570917 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 103: 192.168.1.10.5353 > 224.0.0.251.5353: 12 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:48:29.570917 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 123: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 12 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:48:31.264276 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 1250
+03:48:31.264303 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 1250
+03:48:31.264434 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 121: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 79
+03:48:31.291010 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 40
+03:48:31.291010 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 1250
+03:48:31.318178 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 1250
+03:48:31.344979 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 1250
+03:48:31.367728 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 1250
+03:48:31.367729 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 345: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 303
+03:48:31.367729 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 986: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 944
+03:48:31.367729 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 25
+03:48:31.368161 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 120: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 78
+03:48:31.368205 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 31
+03:48:31.368354 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1288: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 1246
+03:48:31.368361 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 1250
+03:48:31.368385 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 643: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 601
+03:48:31.368390 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 355: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 313
+03:48:31.404131 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 162: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 120
+03:48:31.404131 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 25
+03:48:31.404131 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 25
+03:48:31.404131 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 25
+03:48:31.424311 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 72: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 30
+03:48:31.424543 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 31
+03:48:31.471101 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 291: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 249
+03:48:31.472193 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 63: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 21
+03:48:31.472398 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 77: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 35
+03:48:31.523829 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 24
+03:48:33.954356 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 92: 192.168.1.28.63205 > 192.168.1.1.53: 64318+ A? mobile.events.data.microsoft.com. (50)
+03:48:33.956964 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 92: 192.168.1.28.49103 > 192.168.1.1.53: 15055+ HTTPS? mobile.events.data.microsoft.com. (50)
+03:48:33.989115 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 483: 192.168.1.1.53 > 192.168.1.28.63205: 64318 3/4/6 CNAME mobile.events.data.trafficmanager.net., CNAME onedscolprdweu02.westeurope.cloudapp.azure.com., A 52.178.17.2 (441)
+03:48:33.993464 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 261: 192.168.1.1.53 > 192.168.1.28.49103: 15055 2/1/0 CNAME mobile.events.data.trafficmanager.net., CNAME onedscolprdweu02.westeurope.cloudapp.azure.com. (219)
+03:48:37.355090 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 167: 192.168.1.10.49411 > 239.255.255.250.1900: UDP, length 125
+03:48:44.515515 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 145: 192.168.1.28.36440 > 142.250.70.35.443: UDP, length 103
+03:48:44.582623 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 72: 142.250.70.35.443 > 192.168.1.28.36440: UDP, length 30
+03:48:44.608118 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.36440 > 142.250.70.35.443: UDP, length 32
+03:48:44.613144 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 157: 142.250.70.35.443 > 192.168.1.28.36440: UDP, length 115
+03:48:44.616305 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 64: 142.250.70.35.443 > 192.168.1.28.36440: UDP, length 22
+03:48:44.616514 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 77: 192.168.1.28.36440 > 142.250.70.35.443: UDP, length 35
+03:48:44.670040 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.70.35.443 > 192.168.1.28.36440: UDP, length 24
+03:48:48.254082 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1286: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 1244
+03:48:48.254115 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 1250
+03:48:48.254120 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 1250
+03:48:48.254124 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 1250
+03:48:48.254128 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 81: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 39
+03:48:48.282298 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 69: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 27
+03:48:48.282298 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 65: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 23
+03:48:48.307833 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 32
+03:48:48.310631 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 24
+03:48:48.365397 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1288: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 1246
+03:48:48.365397 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 600: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 558
+03:48:48.365397 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 234: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 192
+03:48:48.365664 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 77: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 35
+03:48:48.390928 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.41237 > 142.250.183.110.443: UDP, length 32
+03:48:48.419083 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.110.443 > 192.168.1.28.41237: UDP, length 24
+03:48:49.641900 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 103: 192.168.1.10.5353 > 224.0.0.251.5353: 13 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:48:49.642738 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 123: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 13 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:48:56.707831 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 192.168.1.10.5353 > 224.0.0.251.5353: 6 PTR (QM)? _kdeconnect._udp.local. (40)
+03:48:56.707832 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 102: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 6 PTR (QM)? _kdeconnect._udp.local. (40)
+03:48:56.707832 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 385: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 0*- [0q] 1/0/6 PTR 44db6837_b615_4d13_b1ad_e79f1e95e4e3._kdeconnect._udp.local. (323)
+03:48:56.725221 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 365: 192.168.1.10.5353 > 224.0.0.251.5353: 0*- [0q] 1/0/6 PTR 44db6837_b615_4d13_b1ad_e79f1e95e4e3._kdeconnect._udp.local. (323)
+03:48:58.247158 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 81: 192.168.1.28.34901 > 192.168.1.1.53: 8352+ AAAA? oauth2.googleapis.com. (39)
+03:48:58.247232 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 81: 192.168.1.28.59255 > 192.168.1.1.53: 41784+ A? oauth2.googleapis.com. (39)
+03:48:58.281413 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 460: 192.168.1.1.53 > 192.168.1.28.59255: 41784 16/4/2 A 142.250.182.234, A 142.250.183.10, A 142.250.199.138, A 142.250.183.202, A 142.250.183.106, A 142.250.183.42, A 142.250.67.202, A 142.250.192.42, A 142.251.42.106, A 142.250.192.10, A 142.250.199.170, A 142.250.183.170, A 142.250.66.10, A 216.58.203.42, A 142.250.183.138, A 142.250.183.74 (418)
+03:48:58.339269 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 316: 192.168.1.1.53 > 192.168.1.28.34901: 8352 4/4/2 AAAA 2404:6800:4009:804::200a, AAAA 2404:6800:4009:811::200a, AAAA 2404:6800:4009:812::200a, AAAA 2404:6800:4009:80f::200a (274)
+03:48:58.586824 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 78: 192.168.1.28.41081 > 192.168.1.1.53: 8093+ AAAA? www.googleapis.com. (36)
+03:48:58.586836 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 78: 192.168.1.28.44869 > 192.168.1.1.53: 24904+ A? www.googleapis.com. (36)
+03:48:58.623479 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 313: 192.168.1.1.53 > 192.168.1.28.41081: 8093 4/4/2 AAAA 2404:6800:4009:827::200a, AAAA 2404:6800:4009:829::200a, AAAA 2404:6800:4009:823::200a, AAAA 2404:6800:4009:828::200a (271)
+03:48:58.626035 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 457: 192.168.1.1.53 > 192.168.1.28.44869: 24904 16/4/2 A 142.250.71.106, A 142.250.70.74, A 142.250.183.138, A 172.217.174.74, A 142.250.183.202, A 142.250.199.138, A 142.250.182.202, A 142.250.199.170, A 216.58.203.10, A 142.250.183.170, A 142.250.182.234, A 142.250.77.74, A 142.250.183.10, A 142.250.70.106, A 142.251.42.106, A 142.250.66.10 (415)
+03:48:58.881924 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 89: 192.168.1.28.35916 > 192.168.1.1.53: 24369+ A? apidata.googleusercontent.com. (47)
+03:48:58.881933 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 89: 192.168.1.28.35916 > 192.168.1.1.53: 64310+ AAAA? apidata.googleusercontent.com. (47)
+03:48:58.913626 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 257: 192.168.1.1.53 > 192.168.1.28.35916: 24369 2/4/2 CNAME googlehosted.l.googleusercontent.com., A 142.250.183.129 (215)
+03:48:58.914465 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 269: 192.168.1.1.53 > 192.168.1.28.35916: 64310 2/4/2 CNAME googlehosted.l.googleusercontent.com., AAAA 2404:6800:4009:824::2001 (227)
+03:49:00.644047 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 89: 192.168.1.28.15973 > 192.168.1.1.53: 55576+ A? clientservices.googleapis.com. (47)
+03:49:00.644101 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 89: 192.168.1.28.21038 > 192.168.1.1.53: 2812+ HTTPS? clientservices.googleapis.com. (47)
+03:49:00.675764 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 228: 192.168.1.1.53 > 192.168.1.28.15973: 55576 1/4/2 A 142.250.183.35 (186)
+03:49:00.676285 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 146: 192.168.1.1.53 > 192.168.1.28.21038: 2812 0/1/0 (104)
+03:49:00.676909 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.40706 > 142.250.183.35.443: UDP, length 1250
+03:49:00.676928 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.40706 > 142.250.183.35.443: UDP, length 1250
+03:49:00.677047 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 120: 192.168.1.28.40706 > 142.250.183.35.443: UDP, length 78
+03:49:00.677163 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 419: 192.168.1.28.40706 > 142.250.183.35.443: UDP, length 377
+03:49:00.701513 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 142.250.183.35.443 > 192.168.1.28.40706: UDP, length 40
+03:49:00.701665 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.35.443 > 192.168.1.28.40706: UDP, length 1250
+03:49:00.726984 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.40706 > 142.250.183.35.443: UDP, length 1250
+03:49:00.760443 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.35.443 > 192.168.1.28.40706: UDP, length 1250
+03:49:00.762306 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.35.443 > 192.168.1.28.40706: UDP, length 1250
+03:49:00.762306 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 352: 142.250.183.35.443 > 192.168.1.28.40706: UDP, length 310
+03:49:00.762306 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 982: 142.250.183.35.443 > 192.168.1.28.40706: UDP, length 940
+03:49:00.762737 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 120: 192.168.1.28.40706 > 142.250.183.35.443: UDP, length 78
+03:49:00.762779 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.40706 > 142.250.183.35.443: UDP, length 31
+03:49:00.764444 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 97: 142.250.183.35.443 > 192.168.1.28.40706: UDP, length 55
+03:49:00.764669 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.35.443 > 192.168.1.28.40706: UDP, length 24
+03:49:00.787520 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 162: 142.250.183.35.443 > 192.168.1.28.40706: UDP, length 120
+03:49:00.787735 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.40706 > 142.250.183.35.443: UDP, length 31
+03:49:00.788146 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 64: 142.250.183.35.443 > 192.168.1.28.40706: UDP, length 22
+03:49:00.813579 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.40706 > 142.250.183.35.443: UDP, length 32
+03:49:00.988416 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 71: 192.168.1.28.40706 > 142.250.183.35.443: UDP, length 29
+03:49:00.998444 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 63: 142.250.183.35.443 > 192.168.1.28.40706: UDP, length 21
+03:49:00.998487 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 410: 142.250.183.35.443 > 192.168.1.28.40706: UDP, length 368
+03:49:00.998646 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.40706 > 142.250.183.35.443: UDP, length 33
+03:49:00.998732 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 77: 192.168.1.28.40706 > 142.250.183.35.443: UDP, length 35
+03:49:01.015093 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.40706: UDP, length 25
+03:49:01.047948 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 68: 142.250.183.35.443 > 192.168.1.28.40706: UDP, length 26
+03:49:06.197277 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 78: 192.168.1.28.58924 > 192.168.1.1.53: 46516+ AAAA? www.googleapis.com. (36)
+03:49:06.197389 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 78: 192.168.1.28.56477 > 192.168.1.1.53: 60038+ A? www.googleapis.com. (36)
+03:49:06.231176 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 313: 192.168.1.1.53 > 192.168.1.28.58924: 46516 4/4/2 AAAA 2404:6800:4009:827::200a, AAAA 2404:6800:4009:828::200a, AAAA 2404:6800:4009:823::200a, AAAA 2404:6800:4009:829::200a (271)
+03:49:06.232610 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 457: 192.168.1.1.53 > 192.168.1.28.56477: 60038 16/4/2 A 142.250.70.106, A 142.250.71.106, A 142.250.77.74, A 142.250.183.10, A 216.58.203.10, A 142.250.183.170, A 142.250.70.74, A 142.250.182.202, A 142.250.199.170, A 142.250.199.138, A 142.250.66.10, A 172.217.174.74, A 142.250.183.202, A 142.251.42.106, A 142.250.182.234, A 142.250.183.138 (415)
+03:49:06.646076 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 89: 192.168.1.28.35813 > 192.168.1.1.53: 11770+ A? apidata.googleusercontent.com. (47)
+03:49:06.646088 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 89: 192.168.1.28.35813 > 192.168.1.1.53: 20220+ AAAA? apidata.googleusercontent.com. (47)
+03:49:06.677980 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 257: 192.168.1.1.53 > 192.168.1.28.35813: 11770 2/4/2 CNAME googlehosted.l.googleusercontent.com., A 142.250.183.129 (215)
+03:49:06.678742 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 269: 192.168.1.1.53 > 192.168.1.28.35813: 20220 2/4/2 CNAME googlehosted.l.googleusercontent.com., AAAA 2404:6800:4009:824::2001 (227)
+03:49:09.610879 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 103: 192.168.1.10.5353 > 224.0.0.251.5353: 14 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:49:09.610879 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 123: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 14 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:49:14.629110 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.33455 > 142.250.70.35.443: UDP, length 1250
+03:49:14.629135 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.33455 > 142.250.70.35.443: UDP, length 1250
+03:49:14.629144 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.33455 > 142.250.70.35.443: UDP, length 1250
+03:49:14.630555 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 122: 192.168.1.28.33455 > 142.250.70.35.443: UDP, length 80
+03:49:14.630659 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 584: 192.168.1.28.33455 > 142.250.70.35.443: UDP, length 542
+03:49:14.660006 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 142.250.70.35.443 > 192.168.1.28.33455: UDP, length 40
+03:49:14.660006 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 142.250.70.35.443 > 192.168.1.28.33455: UDP, length 40
+03:49:14.670695 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.70.35.443 > 192.168.1.28.33455: UDP, length 1250
+03:49:14.670695 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.70.35.443 > 192.168.1.28.33455: UDP, length 1250
+03:49:14.684132 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.33455 > 142.250.70.35.443: UDP, length 1250
+03:49:14.715727 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.70.35.443 > 192.168.1.28.33455: UDP, length 1250
+03:49:14.722084 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.70.35.443 > 192.168.1.28.33455: UDP, length 1250
+03:49:14.722084 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 350: 142.250.70.35.443 > 192.168.1.28.33455: UDP, length 308
+03:49:14.722519 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 120: 192.168.1.28.33455 > 142.250.70.35.443: UDP, length 78
+03:49:14.723450 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 984: 142.250.70.35.443 > 192.168.1.28.33455: UDP, length 942
+03:49:14.723450 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.70.35.443 > 192.168.1.28.33455: UDP, length 25
+03:49:14.723450 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.70.35.443 > 192.168.1.28.33455: UDP, length 24
+03:49:14.723691 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.33455 > 142.250.70.35.443: UDP, length 31
+03:49:14.724174 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 64: 142.250.70.35.443 > 192.168.1.28.33455: UDP, length 22
+03:49:14.724243 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.33455 > 142.250.70.35.443: UDP, length 31
+03:49:14.760348 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 162: 142.250.70.35.443 > 192.168.1.28.33455: UDP, length 120
+03:49:14.784128 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 570: 142.250.70.35.443 > 192.168.1.28.33455: UDP, length 528
+03:49:14.784346 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 64: 142.250.70.35.443 > 192.168.1.28.33455: UDP, length 22
+03:49:14.784385 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 77: 192.168.1.28.33455 > 142.250.70.35.443: UDP, length 35
+03:49:14.810455 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.33455 > 142.250.70.35.443: UDP, length 32
+03:49:14.813151 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.70.35.443 > 192.168.1.28.33455: UDP, length 25
+03:49:29.681432 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 103: 192.168.1.10.5353 > 224.0.0.251.5353: 15 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:49:29.681433 8a:75:31:15:cb:3e > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 123: fe80::8875:31ff:fe15:cb3e.5353 > ff02::fb.5353: 15 [2q] PTR (QM)? _googlecast._tcp.local. PTR (QM)? _233637DE._sub._googlecast._tcp.local. (61)
+03:49:31.271125 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.48000 > 192.168.1.1.53: 45011+ A? www.youtube.com. (33)
+03:49:31.271166 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.9503 > 192.168.1.1.53: 3798+ HTTPS? www.youtube.com. (33)
+03:49:31.302774 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 481: 192.168.1.1.53 > 192.168.1.28.48000: 45011 17/4/2 CNAME youtube-ui.l.google.com., A 172.217.174.238, A 142.250.76.174, A 142.250.67.206, A 142.250.183.206, A 142.251.42.110, A 142.250.66.14, A 142.250.183.46, A 216.58.203.14, A 142.250.192.46, A 142.250.67.142, A 142.250.199.142, A 142.250.183.110, A 142.250.183.174, A 142.250.199.174, A 142.250.183.78, A 142.250.192.14 (439)
+03:49:31.303387 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 240: 192.168.1.1.53 > 192.168.1.28.9503: 3798 2/4/2 CNAME youtube-ui.l.google.com., HTTPS (198)
+03:49:31.304028 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 1250
+03:49:31.304050 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 1250
+03:49:31.305773 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 123: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 81
+03:49:31.331610 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 40
+03:49:31.332475 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 1250
+03:49:31.360509 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 1250
+03:49:31.408037 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 1250
+03:49:31.408038 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 1250
+03:49:31.408038 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 341: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 299
+03:49:31.408038 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 986: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 944
+03:49:31.408038 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 25
+03:49:31.408490 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 120: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 78
+03:49:31.408532 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 31
+03:49:31.408673 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1288: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 1246
+03:49:31.408680 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 1250
+03:49:31.408696 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 643: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 601
+03:49:31.408700 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 355: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 313
+03:49:31.444521 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 162: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 120
+03:49:31.445689 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 25
+03:49:31.445689 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 25
+03:49:31.445689 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 25
+03:49:31.470067 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 32
+03:49:31.472304 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 72: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 30
+03:49:31.498038 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 32
+03:49:31.519825 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 291: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 249
+03:49:31.521169 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 63: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 21
+03:49:31.521252 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 77: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 35
+03:49:31.573668 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 24
+03:49:34.368053 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 92: 192.168.1.28.53317 > 192.168.1.1.53: 13324+ A? mobile.events.data.microsoft.com. (50)
+03:49:34.368108 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 92: 192.168.1.28.19055 > 192.168.1.1.53: 23331+ HTTPS? mobile.events.data.microsoft.com. (50)
+03:49:34.403331 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 479: 192.168.1.1.53 > 192.168.1.28.53317: 13324 3/4/6 CNAME mobile.events.data.trafficmanager.net., CNAME onedscolprdeus06.eastus.cloudapp.azure.com., A 20.42.73.25 (437)
+03:49:34.407827 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 257: 192.168.1.1.53 > 192.168.1.28.19055: 23331 2/1/0 CNAME mobile.events.data.trafficmanager.net., CNAME onedscolprdeus06.eastus.cloudapp.azure.com. (215)
+03:49:38.246870 d4:1b:81:ac:5b:29 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 215: 192.168.1.28.35576 > 239.255.255.250.1900: UDP, length 173
+03:49:38.249592 d4:1b:81:ac:5b:29 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 215: 192.168.1.28.35576 > 239.255.255.250.1900: UDP, length 173
+03:49:39.247093 d4:1b:81:ac:5b:29 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 215: 192.168.1.28.35576 > 239.255.255.250.1900: UDP, length 173
+03:49:39.250041 d4:1b:81:ac:5b:29 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 215: 192.168.1.28.35576 > 239.255.255.250.1900: UDP, length 173
+03:49:40.248788 d4:1b:81:ac:5b:29 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 215: 192.168.1.28.35576 > 239.255.255.250.1900: UDP, length 173
+03:49:40.251559 d4:1b:81:ac:5b:29 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 215: 192.168.1.28.35576 > 239.255.255.250.1900: UDP, length 173
+03:49:41.249301 d4:1b:81:ac:5b:29 > 01:00:5e:7f:ff:fa, ethertype IPv4 (0x0800), length 215: 192.168.1.28.35576 > 239.255.255.250.1900: UDP, length 173
+03:49:41.253802 d4:1b:81:ac:5b:29 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 215: 192.168.1.28.35576 > 239.255.255.250.1900: UDP, length 173
+03:49:49.255437 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1286: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 1244
+03:49:49.255473 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 1250
+03:49:49.255481 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 1250
+03:49:49.255488 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 1250
+03:49:49.255495 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 82: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 40
+03:49:49.300664 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 69: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 27
+03:49:49.300664 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 65: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 23
+03:49:49.319601 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 24
+03:49:49.325967 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 32
+03:49:49.386611 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1288: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 1246
+03:49:49.386611 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 603: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 561
+03:49:49.386611 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 96: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 54
+03:49:49.386889 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 77: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 35
+03:49:49.412322 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.55906 > 172.217.174.238.443: UDP, length 32
+03:49:49.439786 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 172.217.174.238.443 > 192.168.1.28.55906: UDP, length 24
+03:49:51.191242 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.20314 > 192.168.1.1.53: 14892+ A? ab.chatgpt.com. (32)
+03:49:51.191594 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.59745 > 192.168.1.1.53: 5964+ HTTPS? ab.chatgpt.com. (32)
+03:49:51.226086 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 163: 192.168.1.1.53 > 192.168.1.28.20314: 14892 2/2/0 A 104.18.32.47, A 172.64.155.209 (121)
+03:49:51.226633 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 135: 192.168.1.1.53 > 192.168.1.28.59745: 5964 0/1/0 (93)
+03:50:03.513329 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 79: 192.168.1.28.14806 > 192.168.1.1.53: 44870+ A? clients4.google.com. (37)
+03:50:03.513376 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 79: 192.168.1.28.25935 > 192.168.1.1.53: 10219+ HTTPS? clients4.google.com. (37)
+03:50:03.546905 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 235: 192.168.1.1.53 > 192.168.1.28.14806: 44870 2/4/2 CNAME clients.l.google.com., A 142.250.192.142 (193)
+03:50:03.547326 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 153: 192.168.1.1.53 > 192.168.1.28.25935: 10219 1/1/0 CNAME clients.l.google.com. (111)
+03:50:03.548024 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 1250
+03:50:03.548050 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 1250
+03:50:03.548078 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 1250
+03:50:03.549758 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 121: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 79
+03:50:03.576343 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 40
+03:50:03.576879 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 40
+03:50:03.580273 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 1250
+03:50:03.580273 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 1250
+03:50:03.598649 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 1250
+03:50:03.626129 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 1250
+03:50:03.637887 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 1250
+03:50:03.637887 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 344: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 302
+03:50:03.637887 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 990: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 948
+03:50:03.637887 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 69: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 27
+03:50:03.637887 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 24
+03:50:03.638249 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 120: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 78
+03:50:03.638284 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 31
+03:50:03.638399 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1288: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 1246
+03:50:03.638407 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 1250
+03:50:03.638412 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 1250
+03:50:03.638417 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 1250
+03:50:03.638422 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 1250
+03:50:03.638427 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 1250
+03:50:03.638433 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 1250
+03:50:03.638439 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 1250
+03:50:03.640635 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 1250
+03:50:03.640650 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 1250
+03:50:03.640656 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 1250
+03:50:03.640661 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 1250
+03:50:03.640665 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 1250
+03:50:03.640672 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 1250
+03:50:03.642859 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 731: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 689
+03:50:03.664156 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 162: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 120
+03:50:03.667868 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 71: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 29
+03:50:03.667868 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 25
+03:50:03.667868 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 25
+03:50:03.667868 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 25
+03:50:03.667868 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 25
+03:50:03.667868 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 25
+03:50:03.667868 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 25
+03:50:03.667868 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 25
+03:50:03.668026 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 32
+03:50:03.668493 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 25
+03:50:03.869286 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 71: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 29
+03:50:03.925852 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 24
+03:50:03.972005 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 534: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 492
+03:50:03.978230 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 86: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 44
+03:50:03.978460 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 77: 192.168.1.28.44823 > 142.250.192.142.443: UDP, length 35
+03:50:04.030342 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.192.142.443 > 192.168.1.28.44823: UDP, length 24
+03:50:04.082254 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 89: 192.168.1.28.12889 > 192.168.1.1.53: 57630+ A? clientservices.googleapis.com. (47)
+03:50:04.082340 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 89: 192.168.1.28.49327 > 192.168.1.1.53: 36536+ HTTPS? clientservices.googleapis.com. (47)
+03:50:04.144497 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 228: 192.168.1.1.53 > 192.168.1.28.12889: 57630 1/4/2 A 142.250.183.35 (186)
+03:50:04.145956 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 146: 192.168.1.1.53 > 192.168.1.28.49327: 36536 0/1/0 (104)
+03:50:04.146681 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.146700 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.146711 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.148453 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 122: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 80
+03:50:04.172537 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 40
+03:50:04.172537 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 40
+03:50:04.182567 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 1250
+03:50:04.182567 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 1250
+03:50:04.193044 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.221329 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 1250
+03:50:04.238727 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 1250
+03:50:04.238727 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 347: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 305
+03:50:04.238727 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 987: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 945
+03:50:04.238727 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 92: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 50
+03:50:04.238727 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 24
+03:50:04.239170 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 120: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 78
+03:50:04.239210 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 31
+03:50:04.239368 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1288: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1246
+03:50:04.239375 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.239380 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.239385 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.239390 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.239395 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.239399 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.239404 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.241658 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.241677 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.241682 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.241687 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.241692 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.241702 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.243824 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.243835 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.243841 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.243845 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.243850 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.243873 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.245989 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.246007 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.246013 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.246018 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.246023 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.246029 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.248135 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.248146 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.248151 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.248156 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.248160 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.248167 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.250351 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.250362 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.250368 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.250373 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.250378 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.250384 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.266539 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 162: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 120
+03:50:04.266931 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 71: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 29
+03:50:04.267033 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.267051 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.267056 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.267958 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.267958 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.268079 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.268090 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.268107 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.268112 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.269725 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.269725 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.269725 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.269725 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.269725 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.269858 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.269869 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.269874 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.269878 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.269882 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.270161 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.270161 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.271026 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.271039 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.271043 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.271048 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.271052 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.271057 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.271919 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.271964 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.271976 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.274091 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.274124 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.274132 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.274139 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 1250
+03:50:04.274144 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 489: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 447
+03:50:04.277503 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.277503 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.277503 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.291392 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.291392 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.291392 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.293665 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.293665 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.293665 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.293665 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 70: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 28
+03:50:04.294732 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 65: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 23
+03:50:04.294732 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 65: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 23
+03:50:04.294949 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 65: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 23
+03:50:04.295424 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 65: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 23
+03:50:04.295424 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 65: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 23
+03:50:04.306034 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 65: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 23
+03:50:04.310598 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 65: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 23
+03:50:04.310598 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 65: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 23
+03:50:04.310598 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 24
+03:50:04.310598 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 24
+03:50:04.310598 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 24
+03:50:04.310598 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 24
+03:50:04.319884 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 32
+03:50:04.511337 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 71: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 29
+03:50:04.564596 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:04.765002 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 71: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 29
+03:50:04.767763 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 24
+03:50:04.793019 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 33
+03:50:04.817425 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 25
+03:50:05.017947 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 71: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 29
+03:50:05.019824 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 534: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 492
+03:50:05.019824 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 317: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 275
+03:50:05.020031 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 78: 192.168.1.28.49864 > 142.250.183.35.443: UDP, length 36
+03:50:05.043977 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.35.443 > 192.168.1.28.49864: UDP, length 24
+03:50:06.194584 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 79: 192.168.1.28.58307 > 192.168.1.1.53: 8936+ A? clients4.google.com. (37)
+03:50:06.194621 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 79: 192.168.1.28.23749 > 192.168.1.1.53: 15456+ HTTPS? clients4.google.com. (37)
+03:50:06.226332 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 235: 192.168.1.1.53 > 192.168.1.28.58307: 8936 2/4/2 CNAME clients.l.google.com., A 142.250.192.142 (193)
+03:50:06.226835 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 153: 192.168.1.1.53 > 192.168.1.28.23749: 15456 1/1/0 CNAME clients.l.google.com. (111)
+03:50:06.227432 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.57599 > 142.250.192.142.443: UDP, length 1250
+03:50:06.227452 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.57599 > 142.250.192.142.443: UDP, length 1250
+03:50:06.228994 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 122: 192.168.1.28.57599 > 142.250.192.142.443: UDP, length 80
+03:50:06.252165 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 79: 192.168.1.28.42817 > 192.168.1.1.53: 47620+ A? main.vscode-cdn.net. (37)
+03:50:06.252209 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 79: 192.168.1.28.19550 > 192.168.1.1.53: 2057+ HTTPS? main.vscode-cdn.net. (37)
+03:50:06.253981 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 142.250.192.142.443 > 192.168.1.28.57599: UDP, length 40
+03:50:06.254600 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.192.142.443 > 192.168.1.28.57599: UDP, length 1250
+03:50:06.281895 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.57599 > 142.250.192.142.443: UDP, length 1250
+03:50:06.285254 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 285: 192.168.1.1.53 > 192.168.1.28.42817: 47620 5/2/0 CNAME vscode-cdn.z01.azurefd.net., CNAME star-azurefd-prod.trafficmanager.net., CNAME shed.dual-low.s-part-0040.t-0009.t-msedge.net., CNAME s-part-0040.t-0009.t-msedge.net., A 13.107.246.68 (243)
+03:50:06.285962 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 293: 192.168.1.1.53 > 192.168.1.28.19550: 2057 4/1/0 CNAME vscode-cdn.z01.azurefd.net., CNAME star-azurefd-prod.trafficmanager.net., CNAME shed.dual-low.s-part-0040.t-0009.t-msedge.net., CNAME s-part-0040.t-0009.t-msedge.net. (251)
+03:50:06.308799 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.192.142.443 > 192.168.1.28.57599: UDP, length 1250
+03:50:06.316098 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.192.142.443 > 192.168.1.28.57599: UDP, length 1250
+03:50:06.316098 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 352: 142.250.192.142.443 > 192.168.1.28.57599: UDP, length 310
+03:50:06.316098 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 982: 142.250.192.142.443 > 192.168.1.28.57599: UDP, length 940
+03:50:06.316098 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 77: 142.250.192.142.443 > 192.168.1.28.57599: UDP, length 35
+03:50:06.316098 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.192.142.443 > 192.168.1.28.57599: UDP, length 24
+03:50:06.316531 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 120: 192.168.1.28.57599 > 142.250.192.142.443: UDP, length 78
+03:50:06.316585 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.57599 > 142.250.192.142.443: UDP, length 31
+03:50:06.316705 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1288: 192.168.1.28.57599 > 142.250.192.142.443: UDP, length 1246
+03:50:06.316711 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 730: 192.168.1.28.57599 > 142.250.192.142.443: UDP, length 688
+03:50:06.342238 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 71: 142.250.192.142.443 > 192.168.1.28.57599: UDP, length 29
+03:50:06.342464 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 76: 192.168.1.28.57599 > 142.250.192.142.443: UDP, length 34
+03:50:06.342726 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 142.250.192.142.443 > 192.168.1.28.57599: UDP, length 25
+03:50:06.346445 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 162: 142.250.192.142.443 > 192.168.1.28.57599: UDP, length 120
+03:50:06.346653 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.57599 > 142.250.192.142.443: UDP, length 32
+03:50:06.489861 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 707: 142.250.192.142.443 > 192.168.1.28.57599: UDP, length 665
+03:50:06.499888 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 188: 142.250.192.142.443 > 192.168.1.28.57599: UDP, length 146
+03:50:06.500049 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 77: 192.168.1.28.57599 > 142.250.192.142.443: UDP, length 35
+03:50:06.559867 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.192.142.443 > 192.168.1.28.57599: UDP, length 24
+03:50:11.252102 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.61749 > 192.168.1.1.53: 12981+ A? c.go-mpulse.net. (33)
+03:50:11.254483 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.25018 > 192.168.1.1.53: 23010+ HTTPS? c.go-mpulse.net. (33)
+03:50:11.287330 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 228: 192.168.1.1.53 > 192.168.1.28.25018: 23010 2/1/0 CNAME wildcard46.go-mpulse.net.edgekey.net., CNAME e4518.dscapi7.akamaiedge.net. (186)
+03:50:11.287996 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 369: 192.168.1.1.53 > 192.168.1.28.61749: 12981 3/8/0 CNAME wildcard46.go-mpulse.net.edgekey.net., CNAME e4518.dscapi7.akamaiedge.net., A 23.218.244.131 (327)
+03:50:11.288647 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.38236 > 23.218.244.131.443: UDP, length 1250
+03:50:11.288668 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.38236 > 23.218.244.131.443: UDP, length 1250
+03:50:11.316589 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 23.218.244.131.443 > 192.168.1.28.38236: UDP, length 1250
+03:50:11.317788 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 23.218.244.131.443 > 192.168.1.28.38236: UDP, length 1250
+03:50:11.317788 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 292: 23.218.244.131.443 > 192.168.1.28.38236: UDP, length 250
+03:50:11.319182 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.38236 > 23.218.244.131.443: UDP, length 1250
+03:50:11.319552 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 131: 192.168.1.28.38236 > 23.218.244.131.443: UDP, length 89
+03:50:11.319657 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 116: 192.168.1.28.38236 > 23.218.244.131.443: UDP, length 74
+03:50:11.319774 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 743: 192.168.1.28.38236 > 23.218.244.131.443: UDP, length 701
+03:50:11.347708 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 329: 23.218.244.131.443 > 192.168.1.28.38236: UDP, length 287
+03:50:11.347708 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 105: 23.218.244.131.443 > 192.168.1.28.38236: UDP, length 63
+03:50:11.347708 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 63: 23.218.244.131.443 > 192.168.1.28.38236: UDP, length 21
+03:50:11.347709 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 112: 23.218.244.131.443 > 192.168.1.28.38236: UDP, length 70
+03:50:11.347709 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 65: 23.218.244.131.443 > 192.168.1.28.38236: UDP, length 23
+03:50:11.347883 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.38236 > 23.218.244.131.443: UDP, length 32
+03:50:11.347916 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.38236 > 23.218.244.131.443: UDP, length 31
+03:50:11.548464 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 71: 192.168.1.28.38236 > 23.218.244.131.443: UDP, length 29
+03:50:11.603313 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 23.218.244.131.443 > 192.168.1.28.38236: UDP, length 24
+03:50:11.803862 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 71: 192.168.1.28.38236 > 23.218.244.131.443: UDP, length 29
+03:50:11.870248 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 23.218.244.131.443 > 192.168.1.28.38236: UDP, length 24
+03:50:12.070776 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 71: 192.168.1.28.38236 > 23.218.244.131.443: UDP, length 29
+03:50:12.076143 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 200: 23.218.244.131.443 > 192.168.1.28.38236: UDP, length 158
+03:50:12.076143 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 119: 23.218.244.131.443 > 192.168.1.28.38236: UDP, length 77
+03:50:12.076143 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 64: 23.218.244.131.443 > 192.168.1.28.38236: UDP, length 22
+03:50:12.076143 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 200: 23.218.244.131.443 > 192.168.1.28.38236: UDP, length 158
+03:50:12.076293 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 77: 192.168.1.28.38236 > 23.218.244.131.443: UDP, length 35
+03:50:12.076598 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.38236 > 23.218.244.131.443: UDP, length 33
+03:50:12.102549 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 65: 23.218.244.131.443 > 192.168.1.28.38236: UDP, length 23
+03:50:19.466090 d4:1b:81:ac:5b:29 > 33:33:00:01:00:02, ethertype IPv6 (0x86dd), length 110: fe80::3634:200d:8451:113b.546 > ff02::1:2.547: dhcp6 inf-req
+03:50:29.792488 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 87: 192.168.1.28.26339 > 192.168.1.1.53: 32744+ A? safebrowsing.googleapis.com. (45)
+03:50:29.792523 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 87: 192.168.1.28.37464 > 192.168.1.1.53: 38542+ HTTPS? safebrowsing.googleapis.com. (45)
+03:50:29.825387 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 226: 192.168.1.1.53 > 192.168.1.28.26339: 32744 1/4/2 A 142.250.183.170 (184)
+03:50:29.826479 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 144: 192.168.1.1.53 > 192.168.1.28.37464: 38542 0/1/0 (102)
+03:50:29.827068 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44040 > 142.250.183.170.443: UDP, length 1250
+03:50:29.827085 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44040 > 142.250.183.170.443: UDP, length 1250
+03:50:29.827094 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44040 > 142.250.183.170.443: UDP, length 1250
+03:50:29.828790 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 124: 192.168.1.28.44040 > 142.250.183.170.443: UDP, length 82
+03:50:29.828890 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 950: 192.168.1.28.44040 > 142.250.183.170.443: UDP, length 908
+03:50:29.854283 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 142.250.183.170.443 > 192.168.1.28.44040: UDP, length 40
+03:50:29.854283 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 142.250.183.170.443 > 192.168.1.28.44040: UDP, length 40
+03:50:29.855181 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.170.443 > 192.168.1.28.44040: UDP, length 1250
+03:50:29.855934 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.170.443 > 192.168.1.28.44040: UDP, length 1250
+03:50:29.875123 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44040 > 142.250.183.170.443: UDP, length 1250
+03:50:29.901911 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.170.443 > 192.168.1.28.44040: UDP, length 1250
+03:50:29.915041 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 76: 142.250.183.170.443 > 192.168.1.28.44040: UDP, length 34
+03:50:29.915041 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.183.170.443 > 192.168.1.28.44040: UDP, length 24
+03:50:29.916879 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1288: 142.250.183.170.443 > 192.168.1.28.44040: UDP, length 1246
+03:50:29.916879 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.170.443 > 192.168.1.28.44040: UDP, length 1250
+03:50:29.916879 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.170.443 > 192.168.1.28.44040: UDP, length 1250
+03:50:29.916879 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.183.170.443 > 192.168.1.28.44040: UDP, length 1250
+03:50:29.916879 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 335: 142.250.183.170.443 > 192.168.1.28.44040: UDP, length 293
+03:50:29.916879 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 999: 142.250.183.170.443 > 192.168.1.28.44040: UDP, length 957
+03:50:29.916879 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 480: 142.250.183.170.443 > 192.168.1.28.44040: UDP, length 438
+03:50:29.917251 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44040 > 142.250.183.170.443: UDP, length 1250
+03:50:29.917290 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.44040 > 142.250.183.170.443: UDP, length 31
+03:50:29.942989 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.44040 > 142.250.183.170.443: UDP, length 32
+03:50:29.944366 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 162: 142.250.183.170.443 > 192.168.1.28.44040: UDP, length 120
+03:50:29.944366 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 69: 142.250.183.170.443 > 192.168.1.28.44040: UDP, length 27
+03:50:29.969626 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.44040 > 142.250.183.170.443: UDP, length 32
+03:50:31.254187 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.24346 > 192.168.1.1.53: 29286+ A? sso.godaddy.com. (33)
+03:50:31.254249 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.22805 > 192.168.1.1.53: 54301+ HTTPS? sso.godaddy.com. (33)
+03:50:31.266679 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 1250
+03:50:31.266706 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 1250
+03:50:31.266837 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 121: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 79
+03:50:31.286690 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 312: 192.168.1.1.53 > 192.168.1.28.24346: 29286 3/8/0 CNAME sso.godaddy.com-v1.edgekey.net., CNAME e6225.x.akamaiedge.net., A 23.9.210.112 (270)
+03:50:31.287769 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 210: 192.168.1.1.53 > 192.168.1.28.22805: 54301 2/1/0 CNAME sso.godaddy.com-v1.edgekey.net., CNAME e6225.x.akamaiedge.net. (168)
+03:50:31.294055 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 40
+03:50:31.294055 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 1250
+03:50:31.322422 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 1250
+03:50:31.362558 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 1250
+03:50:31.362558 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 355: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 313
+03:50:31.362841 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 1250
+03:50:31.362989 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 120: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 78
+03:50:31.363137 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1288: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 1246
+03:50:31.363143 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 1250
+03:50:31.363168 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 647: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 605
+03:50:31.363173 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 355: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 313
+03:50:31.364682 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 979: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 937
+03:50:31.364682 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 72: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 30
+03:50:31.364682 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 24
+03:50:31.364942 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 31
+03:50:31.392190 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 25
+03:50:31.393061 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 25
+03:50:31.393061 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 67: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 25
+03:50:31.393737 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 71: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 29
+03:50:31.393897 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 75: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 33
+03:50:31.435658 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 162: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 120
+03:50:31.461460 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 76: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 34
+03:50:31.465858 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 291: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 249
+03:50:31.466755 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 63: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 21
+03:50:31.466837 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 79: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 37
+03:50:31.519178 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 24
+03:50:31.617326 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 236: 192.168.1.11.5353 > 224.0.0.251.5353: 0*- [0q] 2/0/2 (Cache flush) PTR Muralis-MacBook-Pro.local., (Cache flush) PTR Muralis-MacBook-Pro.local. (194)
+03:50:31.617327 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 242: 192.168.1.11.5353 > 224.0.0.251.5353: 0 [12q] PTR (QU)? lb._dns-sd._udp.local. PTR (QU)? _airport._tcp.local. PTR (QU)? _rdlink._tcp.local. PTR (QU)? _uscan._tcp.local. PTR (QU)? _ippusb._tcp.local. PTR (QU)? _scanner._tcp.local. PTR (QU)? _ptp._tcp.local. PTR (QU)? _ipp._tcp.local. PTR (QU)? _ipps._tcp.local. PTR (QU)? _uscans._tcp.local. PTR (QU)? _pdl-datastream._tcp.local. PTR (QU)? _printer._tcp.local. (200)
+03:50:31.617327 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 256: fe80::43b:68a:8ba0:25a6.5353 > ff02::fb.5353: 0*- [0q] 2/0/2 (Cache flush) PTR Muralis-MacBook-Pro.local., (Cache flush) PTR Muralis-MacBook-Pro.local. (194)
+03:50:31.617327 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 262: fe80::43b:68a:8ba0:25a6.5353 > ff02::fb.5353: 0 [12q] PTR (QU)? lb._dns-sd._udp.local. PTR (QU)? _airport._tcp.local. PTR (QU)? _rdlink._tcp.local. PTR (QU)? _uscan._tcp.local. PTR (QU)? _ippusb._tcp.local. PTR (QU)? _scanner._tcp.local. PTR (QU)? _ptp._tcp.local. PTR (QU)? _ipp._tcp.local. PTR (QU)? _ipps._tcp.local. PTR (QU)? _uscans._tcp.local. PTR (QU)? _pdl-datastream._tcp.local. PTR (QU)? _printer._tcp.local. (200)
+03:50:31.621883 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 260: 192.168.1.11.5353 > 224.0.0.251.5353: 0 [3q] [4n] ANY (QU)? MuraliM-bM-^@M-^Ys MacBook Pro._airplay._tcp.local. ANY (QU)? D63ECDC6F919@MuraliM-bM-^@M-^Ys MacBook Pro._raop._tcp.local. ANY (QU)? Muralis-MacBook-Pro.local. (218)
+03:50:31.621883 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 280: fe80::43b:68a:8ba0:25a6.5353 > ff02::fb.5353: 0 [3q] [4n] ANY (QU)? MuraliM-bM-^@M-^Ys MacBook Pro._airplay._tcp.local. ANY (QU)? D63ECDC6F919@MuraliM-bM-^@M-^Ys MacBook Pro._raop._tcp.local. ANY (QU)? Muralis-MacBook-Pro.local. (218)
+03:50:31.838976 fe:20:cd:ed:89:0f > ff:ff:ff:ff:ff:ff, ethertype IPv4 (0x0800), length 342: 0.0.0.0.68 > 255.255.255.255.67: BOOTP/DHCP, Request from fe:20:cd:ed:89:0f, length 300
+03:50:32.045374 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 260: 192.168.1.11.5353 > 224.0.0.251.5353: 0 [3q] [4n] ANY (QM)? MuraliM-bM-^@M-^Ys MacBook Pro._airplay._tcp.local. ANY (QM)? D63ECDC6F919@MuraliM-bM-^@M-^Ys MacBook Pro._raop._tcp.local. ANY (QM)? Muralis-MacBook-Pro.local. (218)
+03:50:32.045375 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 280: fe80::43b:68a:8ba0:25a6.5353 > ff02::fb.5353: 0 [3q] [4n] ANY (QM)? MuraliM-bM-^@M-^Ys MacBook Pro._airplay._tcp.local. ANY (QM)? D63ECDC6F919@MuraliM-bM-^@M-^Ys MacBook Pro._raop._tcp.local. ANY (QM)? Muralis-MacBook-Pro.local. (218)
+03:50:32.121067 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 236: 192.168.1.11.5353 > 224.0.0.251.5353: 0*- [0q] 2/0/2 (Cache flush) PTR Muralis-MacBook-Pro.local., (Cache flush) PTR Muralis-MacBook-Pro.local. (194)
+03:50:32.121647 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 256: fe80::43b:68a:8ba0:25a6.5353 > ff02::fb.5353: 0*- [0q] 2/0/2 (Cache flush) PTR Muralis-MacBook-Pro.local., (Cache flush) PTR Muralis-MacBook-Pro.local. (194)
+03:50:32.121885 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 260: 192.168.1.11.5353 > 224.0.0.251.5353: 0 [3q] [4n] ANY (QM)? MuraliM-bM-^@M-^Ys MacBook Pro._airplay._tcp.local. ANY (QM)? D63ECDC6F919@MuraliM-bM-^@M-^Ys MacBook Pro._raop._tcp.local. ANY (QM)? Muralis-MacBook-Pro.local. (218)
+03:50:32.121885 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 280: fe80::43b:68a:8ba0:25a6.5353 > ff02::fb.5353: 0 [3q] [4n] ANY (QM)? MuraliM-bM-^@M-^Ys MacBook Pro._airplay._tcp.local. ANY (QM)? D63ECDC6F919@MuraliM-bM-^@M-^Ys MacBook Pro._raop._tcp.local. ANY (QM)? Muralis-MacBook-Pro.local. (218)
+03:50:32.223864 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 242: 192.168.1.11.5353 > 224.0.0.251.5353: 0 [12q] PTR (QM)? lb._dns-sd._udp.local. PTR (QM)? _airport._tcp.local. PTR (QM)? _rdlink._tcp.local. PTR (QM)? _uscan._tcp.local. PTR (QM)? _ippusb._tcp.local. PTR (QM)? _scanner._tcp.local. PTR (QM)? _ptp._tcp.local. PTR (QM)? _ipp._tcp.local. PTR (QM)? _ipps._tcp.local. PTR (QM)? _uscans._tcp.local. PTR (QM)? _pdl-datastream._tcp.local. PTR (QM)? _printer._tcp.local. (200)
+03:50:32.224090 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 262: fe80::43b:68a:8ba0:25a6.5353 > ff02::fb.5353: 0 [12q] PTR (QM)? lb._dns-sd._udp.local. PTR (QM)? _airport._tcp.local. PTR (QM)? _rdlink._tcp.local. PTR (QM)? _uscan._tcp.local. PTR (QM)? _ippusb._tcp.local. PTR (QM)? _scanner._tcp.local. PTR (QM)? _ptp._tcp.local. PTR (QM)? _ipp._tcp.local. PTR (QM)? _ipps._tcp.local. PTR (QM)? _uscans._tcp.local. PTR (QM)? _pdl-datastream._tcp.local. PTR (QM)? _printer._tcp.local. (200)
+03:50:32.373891 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 965: 192.168.1.11.5353 > 224.0.0.251.5353: 0*- [0q] 10/0/3 (Cache flush) TXT "act=2" "acl=0" "deviceid=D6:3E:CD:C6:F9:19" "fex=1c9/St5PF7g2IQw" "features=0x4A7FCFD5,0xB8174FDE" "rsf=0x8" "flags=0x204" "gid=5AF3188D-F6A4-4D42-A303-F319BDE06403" "igl=0" "gcgl=0" "model=MacBookPro17,1" "at=4" "protovers=1.1" "pi=fec456bd-6bd4-4e6f-bc22-00b5a7445896" "psi=D73ECDC6-F919-4098-AE51-0DA2AFE1EF20" "pk=c79a01397153003fe9e1c8de2fe9d199c47cf4fe5fd134607e7468aa0a7e65f0" "srcvers=845.5.1", PTR _airplay._tcp.local., PTR MuraliM-bM-^@M-^Ys MacBook Pro._airplay._tcp.local., (Cache flush) TXT "cn=0,1,2,3" "da=true" "et=0,3,5" "ft=0x4A7FCFD5,0xB8174FDE" "sf=0x204" "md=0,1,2" "am=MacBookPro17,1" "pk=c79a01397153003fe9e1c8de2fe9d199c47cf4fe5fd134607e7468aa0a7e65f0" "tp=UDP" "vn=65537" "vs=845.5.1" "vv=0", PTR _raop._tcp.local., PTR D63ECDC6F919@MuraliM-bM-^@M-^Ys MacBook Pro._raop._tcp.local., (Cache flush) SRV Muralis-MacBook-Pro.local.:7000 0 0, (Cache flush) SRV Muralis-MacBook-Pro.local.:7000 0 0, (Cache flush) AAAA fe80::43b:68a:8ba0:25a6, (Cache flush) A 192.168.1.11 (923)
+03:50:32.374567 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 985: fe80::43b:68a:8ba0:25a6.5353 > ff02::fb.5353: 0*- [0q] 10/0/3 (Cache flush) TXT "act=2" "acl=0" "deviceid=D6:3E:CD:C6:F9:19" "fex=1c9/St5PF7g2IQw" "features=0x4A7FCFD5,0xB8174FDE" "rsf=0x8" "flags=0x204" "gid=5AF3188D-F6A4-4D42-A303-F319BDE06403" "igl=0" "gcgl=0" "model=MacBookPro17,1" "at=4" "protovers=1.1" "pi=fec456bd-6bd4-4e6f-bc22-00b5a7445896" "psi=D73ECDC6-F919-4098-AE51-0DA2AFE1EF20" "pk=c79a01397153003fe9e1c8de2fe9d199c47cf4fe5fd134607e7468aa0a7e65f0" "srcvers=845.5.1", PTR _airplay._tcp.local., PTR MuraliM-bM-^@M-^Ys MacBook Pro._airplay._tcp.local., (Cache flush) TXT "cn=0,1,2,3" "da=true" "et=0,3,5" "ft=0x4A7FCFD5,0xB8174FDE" "sf=0x204" "md=0,1,2" "am=MacBookPro17,1" "pk=c79a01397153003fe9e1c8de2fe9d199c47cf4fe5fd134607e7468aa0a7e65f0" "tp=UDP" "vn=65537" "vs=845.5.1" "vv=0", PTR _raop._tcp.local., PTR D63ECDC6F919@MuraliM-bM-^@M-^Ys MacBook Pro._raop._tcp.local., (Cache flush) SRV Muralis-MacBook-Pro.local.:7000 0 0, (Cache flush) SRV Muralis-MacBook-Pro.local.:7000 0 0, (Cache flush) AAAA fe80::43b:68a:8ba0:25a6, (Cache flush) A 192.168.1.11 (923)
+03:50:33.044077 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.15288 > 192.168.1.1.53: 8569+ A? www.google.com. (32)
+03:50:33.044113 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.32097 > 192.168.1.1.53: 12137+ HTTPS? www.google.com. (32)
+03:50:33.094095 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 206: 192.168.1.1.53 > 192.168.1.28.15288: 8569 1/4/2 A 142.250.66.4 (164)
+03:50:33.095616 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 215: 192.168.1.1.53 > 192.168.1.28.32097: 12137 1/4/2 HTTPS (173)
+03:50:33.097351 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.35732 > 142.250.66.4.443: UDP, length 1250
+03:50:33.097369 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.35732 > 142.250.66.4.443: UDP, length 1250
+03:50:33.098973 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 122: 192.168.1.28.35732 > 142.250.66.4.443: UDP, length 80
+03:50:33.166465 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 82: 142.250.66.4.443 > 192.168.1.28.35732: UDP, length 40
+03:50:33.166466 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.66.4.443 > 192.168.1.28.35732: UDP, length 1250
+03:50:33.183124 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1292: 142.250.66.4.443 > 192.168.1.28.35732: UDP, length 1250
+03:50:33.183124 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 461: 142.250.66.4.443 > 192.168.1.28.35732: UDP, length 419
+03:50:33.183124 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 873: 142.250.66.4.443 > 192.168.1.28.35732: UDP, length 831
+03:50:33.183124 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 177: 142.250.66.4.443 > 192.168.1.28.35732: UDP, length 135
+03:50:33.183124 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 142.250.66.4.443 > 192.168.1.28.35732: UDP, length 24
+03:50:33.183554 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 120: 192.168.1.28.35732 > 142.250.66.4.443: UDP, length 78
+03:50:33.183594 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.35732 > 142.250.66.4.443: UDP, length 31
+03:50:33.208332 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 162: 142.250.66.4.443 > 192.168.1.28.35732: UDP, length 120
+03:50:33.208518 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.35732 > 142.250.66.4.443: UDP, length 31
+03:50:33.374504 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 965: 192.168.1.11.5353 > 224.0.0.251.5353: 0*- [0q] 10/0/3 (Cache flush) TXT "act=2" "acl=0" "deviceid=D6:3E:CD:C6:F9:19" "fex=1c9/St5PF7g2IQw" "features=0x4A7FCFD5,0xB8174FDE" "rsf=0x8" "flags=0x204" "gid=5AF3188D-F6A4-4D42-A303-F319BDE06403" "igl=0" "gcgl=0" "model=MacBookPro17,1" "at=4" "protovers=1.1" "pi=fec456bd-6bd4-4e6f-bc22-00b5a7445896" "psi=D73ECDC6-F919-4098-AE51-0DA2AFE1EF20" "pk=c79a01397153003fe9e1c8de2fe9d199c47cf4fe5fd134607e7468aa0a7e65f0" "srcvers=845.5.1", PTR _airplay._tcp.local., PTR MuraliM-bM-^@M-^Ys MacBook Pro._airplay._tcp.local., (Cache flush) TXT "cn=0,1,2,3" "da=true" "et=0,3,5" "ft=0x4A7FCFD5,0xB8174FDE" "sf=0x204" "md=0,1,2" "am=MacBookPro17,1" "pk=c79a01397153003fe9e1c8de2fe9d199c47cf4fe5fd134607e7468aa0a7e65f0" "tp=UDP" "vn=65537" "vs=845.5.1" "vv=0", PTR _raop._tcp.local., PTR D63ECDC6F919@MuraliM-bM-^@M-^Ys MacBook Pro._raop._tcp.local., (Cache flush) SRV Muralis-MacBook-Pro.local.:7000 0 0, (Cache flush) SRV Muralis-MacBook-Pro.local.:7000 0 0, (Cache flush) AAAA fe80::43b:68a:8ba0:25a6, (Cache flush) A 192.168.1.11 (923)
+03:50:33.375301 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 985: fe80::43b:68a:8ba0:25a6.5353 > ff02::fb.5353: 0*- [0q] 10/0/3 (Cache flush) TXT "act=2" "acl=0" "deviceid=D6:3E:CD:C6:F9:19" "fex=1c9/St5PF7g2IQw" "features=0x4A7FCFD5,0xB8174FDE" "rsf=0x8" "flags=0x204" "gid=5AF3188D-F6A4-4D42-A303-F319BDE06403" "igl=0" "gcgl=0" "model=MacBookPro17,1" "at=4" "protovers=1.1" "pi=fec456bd-6bd4-4e6f-bc22-00b5a7445896" "psi=D73ECDC6-F919-4098-AE51-0DA2AFE1EF20" "pk=c79a01397153003fe9e1c8de2fe9d199c47cf4fe5fd134607e7468aa0a7e65f0" "srcvers=845.5.1", PTR _airplay._tcp.local., PTR MuraliM-bM-^@M-^Ys MacBook Pro._airplay._tcp.local., (Cache flush) TXT "cn=0,1,2,3" "da=true" "et=0,3,5" "ft=0x4A7FCFD5,0xB8174FDE" "sf=0x204" "md=0,1,2" "am=MacBookPro17,1" "pk=c79a01397153003fe9e1c8de2fe9d199c47cf4fe5fd134607e7468aa0a7e65f0" "tp=UDP" "vn=65537" "vs=845.5.1" "vv=0", PTR _raop._tcp.local., PTR D63ECDC6F919@MuraliM-bM-^@M-^Ys MacBook Pro._raop._tcp.local., (Cache flush) SRV Muralis-MacBook-Pro.local.:7000 0 0, (Cache flush) SRV Muralis-MacBook-Pro.local.:7000 0 0, (Cache flush) AAAA fe80::43b:68a:8ba0:25a6, (Cache flush) A 192.168.1.11 (923)
+03:50:34.297230 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 236: 192.168.1.11.5353 > 224.0.0.251.5353: 0*- [0q] 2/0/2 (Cache flush) PTR Muralis-MacBook-Pro.local., (Cache flush) PTR Muralis-MacBook-Pro.local. (194)
+03:50:34.297805 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 256: fe80::43b:68a:8ba0:25a6.5353 > ff02::fb.5353: 0*- [0q] 2/0/2 (Cache flush) PTR Muralis-MacBook-Pro.local., (Cache flush) PTR Muralis-MacBook-Pro.local. (194)
+03:50:34.786347 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 92: 192.168.1.28.33602 > 192.168.1.1.53: 48824+ A? mobile.events.data.microsoft.com. (50)
+03:50:34.786393 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 92: 192.168.1.28.7449 > 192.168.1.1.53: 17458+ HTTPS? mobile.events.data.microsoft.com. (50)
+03:50:34.922047 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 479: 192.168.1.1.53 > 192.168.1.28.33602: 48824 3/4/6 CNAME mobile.events.data.trafficmanager.net., CNAME onedscolprdeus18.eastus.cloudapp.azure.com., A 20.42.73.30 (437)
+03:50:34.922047 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 257: 192.168.1.1.53 > 192.168.1.28.7449: 17458 2/1/0 CNAME mobile.events.data.trafficmanager.net., CNAME onedscolprdeus18.eastus.cloudapp.azure.com. (215)
+03:50:35.285181 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 242: 192.168.1.11.5353 > 224.0.0.251.5353: 0 [12q] PTR (QM)? lb._dns-sd._udp.local. PTR (QM)? _airport._tcp.local. PTR (QM)? _rdlink._tcp.local. PTR (QM)? _uscan._tcp.local. PTR (QM)? _ippusb._tcp.local. PTR (QM)? _scanner._tcp.local. PTR (QM)? _ptp._tcp.local. PTR (QM)? _ipp._tcp.local. PTR (QM)? _ipps._tcp.local. PTR (QM)? _uscans._tcp.local. PTR (QM)? _pdl-datastream._tcp.local. PTR (QM)? _printer._tcp.local. (200)
+03:50:35.285500 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 262: fe80::43b:68a:8ba0:25a6.5353 > ff02::fb.5353: 0 [12q] PTR (QM)? lb._dns-sd._udp.local. PTR (QM)? _airport._tcp.local. PTR (QM)? _rdlink._tcp.local. PTR (QM)? _uscan._tcp.local. PTR (QM)? _ippusb._tcp.local. PTR (QM)? _scanner._tcp.local. PTR (QM)? _ptp._tcp.local. PTR (QM)? _ipp._tcp.local. PTR (QM)? _ipps._tcp.local. PTR (QM)? _uscans._tcp.local. PTR (QM)? _pdl-datastream._tcp.local. PTR (QM)? _printer._tcp.local. (200)
+03:50:35.490982 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 965: 192.168.1.11.5353 > 224.0.0.251.5353: 0*- [0q] 10/0/3 (Cache flush) TXT "act=2" "acl=0" "deviceid=D6:3E:CD:C6:F9:19" "fex=1c9/St5PF7g2IQw" "features=0x4A7FCFD5,0xB8174FDE" "rsf=0x8" "flags=0x204" "gid=5AF3188D-F6A4-4D42-A303-F319BDE06403" "igl=0" "gcgl=0" "model=MacBookPro17,1" "at=4" "protovers=1.1" "pi=fec456bd-6bd4-4e6f-bc22-00b5a7445896" "psi=D73ECDC6-F919-4098-AE51-0DA2AFE1EF20" "pk=c79a01397153003fe9e1c8de2fe9d199c47cf4fe5fd134607e7468aa0a7e65f0" "srcvers=845.5.1", PTR _airplay._tcp.local., PTR MuraliM-bM-^@M-^Ys MacBook Pro._airplay._tcp.local., (Cache flush) TXT "cn=0,1,2,3" "da=true" "et=0,3,5" "ft=0x4A7FCFD5,0xB8174FDE" "sf=0x204" "md=0,1,2" "am=MacBookPro17,1" "pk=c79a01397153003fe9e1c8de2fe9d199c47cf4fe5fd134607e7468aa0a7e65f0" "tp=UDP" "vn=65537" "vs=845.5.1" "vv=0", PTR _raop._tcp.local., PTR D63ECDC6F919@MuraliM-bM-^@M-^Ys MacBook Pro._raop._tcp.local., (Cache flush) SRV Muralis-MacBook-Pro.local.:7000 0 0, (Cache flush) SRV Muralis-MacBook-Pro.local.:7000 0 0, (Cache flush) AAAA fe80::43b:68a:8ba0:25a6, (Cache flush) A 192.168.1.11 (923)
+03:50:35.490982 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 985: fe80::43b:68a:8ba0:25a6.5353 > ff02::fb.5353: 0*- [0q] 10/0/3 (Cache flush) TXT "act=2" "acl=0" "deviceid=D6:3E:CD:C6:F9:19" "fex=1c9/St5PF7g2IQw" "features=0x4A7FCFD5,0xB8174FDE" "rsf=0x8" "flags=0x204" "gid=5AF3188D-F6A4-4D42-A303-F319BDE06403" "igl=0" "gcgl=0" "model=MacBookPro17,1" "at=4" "protovers=1.1" "pi=fec456bd-6bd4-4e6f-bc22-00b5a7445896" "psi=D73ECDC6-F919-4098-AE51-0DA2AFE1EF20" "pk=c79a01397153003fe9e1c8de2fe9d199c47cf4fe5fd134607e7468aa0a7e65f0" "srcvers=845.5.1", PTR _airplay._tcp.local., PTR MuraliM-bM-^@M-^Ys MacBook Pro._airplay._tcp.local., (Cache flush) TXT "cn=0,1,2,3" "da=true" "et=0,3,5" "ft=0x4A7FCFD5,0xB8174FDE" "sf=0x204" "md=0,1,2" "am=MacBookPro17,1" "pk=c79a01397153003fe9e1c8de2fe9d199c47cf4fe5fd134607e7468aa0a7e65f0" "tp=UDP" "vn=65537" "vs=845.5.1" "vv=0", PTR _raop._tcp.local., PTR D63ECDC6F919@MuraliM-bM-^@M-^Ys MacBook Pro._raop._tcp.local., (Cache flush) SRV Muralis-MacBook-Pro.local.:7000 0 0, (Cache flush) SRV Muralis-MacBook-Pro.local.:7000 0 0, (Cache flush) AAAA fe80::43b:68a:8ba0:25a6, (Cache flush) A 192.168.1.11 (923)
+03:50:36.106108 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 166: 192.168.1.11.5353 > 224.0.0.251.5353: 0*- [0q] 2/0/0 PTR MuraliM-bM-^@M-^Ys MacBook Pro._airplay._tcp.local., PTR D63ECDC6F919@MuraliM-bM-^@M-^Ys MacBook Pro._raop._tcp.local. (124)
+03:50:36.106108 fe:20:cd:ed:89:0f > d4:1b:81:ac:5b:29, ethertype IPv6 (0x86dd), length 186: fe80::43b:68a:8ba0:25a6.5353 > ff02::fb.5353: 0*- [0q] 2/0/0 PTR MuraliM-bM-^@M-^Ys MacBook Pro._airplay._tcp.local., PTR D63ECDC6F919@MuraliM-bM-^@M-^Ys MacBook Pro._raop._tcp.local. (124)
+03:50:50.254368 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1286: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 1244
+03:50:50.257017 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 1250
+03:50:50.257026 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 1250
+03:50:50.257031 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 1250
+03:50:50.257035 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 84: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 42
+03:50:50.289756 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 69: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 27
+03:50:50.289830 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 65: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 23
+03:50:50.311083 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 66: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 24
+03:50:50.315426 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 32
+03:50:50.382251 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1288: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 1246
+03:50:50.382251 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 602: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 560
+03:50:50.382251 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 221: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 179
+03:50:50.382520 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 77: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 35
+03:50:50.407715 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 74: 192.168.1.28.44968 > 172.217.174.238.443: UDP, length 32
+03:50:50.434649 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 65: 172.217.174.238.443 > 192.168.1.28.44968: UDP, length 23
+03:51:21.239172 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 71: 192.168.1.28.57365 > 192.168.1.1.53: 38909+ A? chatgpt.com. (29)
+03:51:21.239215 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 71: 192.168.1.28.63879 > 192.168.1.1.53: 6634+ HTTPS? chatgpt.com. (29)
+03:51:21.271974 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 160: 192.168.1.1.53 > 192.168.1.28.57365: 38909 2/2/0 A 104.18.32.47, A 172.64.155.209 (118)
+03:51:21.272576 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 132: 192.168.1.1.53 > 192.168.1.28.63879: 6634 0/1/0 (90)
+03:51:31.254522 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.38933 > 192.168.1.1.53: 15990+ A? www.figma.com. (31)
+03:51:31.254567 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 73: 192.168.1.28.35427 > 192.168.1.1.53: 19987+ HTTPS? www.figma.com. (31)
+03:51:31.277184 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.59848 > 172.217.174.238.443: UDP, length 1250
+03:51:31.277210 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.59848 > 172.217.174.238.443: UDP, length 1250
+03:51:31.277351 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 124: 192.168.1.28.59848 > 172.217.174.238.443: UDP, length 82
+03:51:31.286250 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 434: 192.168.1.1.53 > 192.168.1.28.38933: 15990 4/4/7 A 18.66.78.23, A 18.66.78.123, A 18.66.78.15, A 18.66.78.114 (392)
+03:51:31.286736 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 157: 192.168.1.1.53 > 192.168.1.28.35427: 19987 0/1/0 (115)
+03:51:31.287312 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.37722 > 18.66.78.23.443: UDP, length 1250
+03:51:31.287333 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.37722 > 18.66.78.23.443: UDP, length 1250
+03:51:31.297297 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1242: 18.66.78.23.443 > 192.168.1.28.37722: UDP, length 1200
+03:51:31.297298 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1242: 18.66.78.23.443 > 192.168.1.28.37722: UDP, length 1200
+03:51:31.297298 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1242: 18.66.78.23.443 > 192.168.1.28.37722: UDP, length 1200
+03:51:31.297298 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1242: 18.66.78.23.443 > 192.168.1.28.37722: UDP, length 1200
+03:51:31.297298 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 996: 18.66.78.23.443 > 192.168.1.28.37722: UDP, length 954
+03:51:31.297618 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 93: 192.168.1.28.37722 > 18.66.78.23.443: UDP, length 51
+03:51:31.297651 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 93: 192.168.1.28.37722 > 18.66.78.23.443: UDP, length 51
+03:51:31.298850 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 94: 192.168.1.28.37722 > 18.66.78.23.443: UDP, length 52
+03:51:31.299181 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 127: 192.168.1.28.37722 > 18.66.78.23.443: UDP, length 85
+03:51:31.299280 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 128: 192.168.1.28.37722 > 18.66.78.23.443: UDP, length 86
+03:51:31.299426 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.37722 > 18.66.78.23.443: UDP, length 1250
+03:51:31.299442 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 1292: 192.168.1.28.37722 > 18.66.78.23.443: UDP, length 1250
+03:51:31.299448 d4:1b:81:ac:5b:29 > 20:0c:86:b9:be:60, ethertype IPv4 (0x0800), length 446: 192.168.1.28.37722 > 18.66.78.23.443: UDP, length 404
+03:51:31.304513 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 1494: 18.66.78.23.443 > 192.168.1.28.37722: UDP, length 1452
+03:51:31.304513 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 101: 18.66.78.23.443 > 192.168.1.28.37722: UDP, length 59
+03:51:31.304513 20:0c:86:b9:be:60 > d4:1b:81:ac:5b:29, ethertype IPv4 (0x0800), length 85: 18.66.78.23.443 > 192.168.1.28.37722: UDP, length 43
